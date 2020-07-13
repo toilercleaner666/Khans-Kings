@@ -1,0 +1,33 @@
+#Albania guaranteed by Venice
+guarantee = {
+	first = VEN
+	second = ALB
+	start_date = 1444.1.1
+	end_date = 1468.1.1
+}
+
+# Athens, a Latin Empire vassal
+vassal = {
+	first = LAT
+	second = ATH
+	start_date = 1444.6.1
+	end_date = 1453.5.29
+}
+
+# Achaea, a Latin Empire vassal
+vassal = {
+	first = LAT
+	second = ACH
+	start_date = 1444.6.1
+	end_date = 1453.5.29
+}
+
+# Epirus, a Latin Empire vassal
+vassal = {
+	first = LAT
+	second = EPI
+	start_date = 1444.6.1
+	end_date = 1453.5.29
+}
+
+
