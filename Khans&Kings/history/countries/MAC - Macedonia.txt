@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 3001
+
+
+
+1404.1.1 = {
+	monarch = {
+		name = "Centurione II"
+		dynasty = "Zaccaria"
+		dip = 1
+		adm = 0
+		mil = 0
+	}
+}
+
+
