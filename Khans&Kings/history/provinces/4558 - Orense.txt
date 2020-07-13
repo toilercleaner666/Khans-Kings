@@ -3,7 +3,7 @@
 owner = GAL
 controller = GAL
 add_core = GAL
-culture = galician
+culture = suebi
 religion = catholic
 hre = no
 base_tax = 2

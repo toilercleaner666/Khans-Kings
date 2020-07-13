@@ -2,7 +2,8 @@
 
 owner = TUN
 controller = TUN
-culture = berber
+add_core = TUN
+culture = vandal
 religion = sunni
 capital = "Bejaia"
 trade_goods = iron
@@ -11,8 +12,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = TUN
-add_core = KBA
+
+
 
 
 
@@ -22,9 +23,3 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
-1510.1.1 = {
-	owner = KBA
-	controller = KBA
-	capital = "Kalâa"
-}
-1600.1.1 = { capital = "Medjana" }

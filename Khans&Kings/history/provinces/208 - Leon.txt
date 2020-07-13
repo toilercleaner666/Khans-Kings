@@ -1,9 +1,9 @@
 #208 - León
 
-owner = GAL
-controller = GAL
-add_core = GAL
-culture = galician
+owner = ASU
+controller = ASU
+add_core = ASU
+culture = astures
 religion = catholic
 hre = no
 base_tax = 4 

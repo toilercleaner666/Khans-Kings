@@ -1,0 +1,43 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = basque
+religion = catholic
+technology_group = western
+capital = 209
+
+
+
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 10
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = -20
+}
+
+
+1435.9.18 = {
+	monarch = {
+		name = "'Uthman"
+		dynasty = "Hafsid"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1435.9.18 = {
+	heir = {
+		name = "Yahyâ"
+		monarch_name = "Yahyâ III"
+		dynasty = "Hafsid"
+		birth_date = 1435.9.18
+		death_date = 1489.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+

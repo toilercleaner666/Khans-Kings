@@ -3,7 +3,7 @@
 owner = VAN
 controller = VAN
 add_core = VAN
-culture = berber
+culture = vandal
 religion = catholic
 capital = "Annaba"
 trade_goods = naval_supplies

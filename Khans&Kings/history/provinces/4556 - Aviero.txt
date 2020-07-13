@@ -3,7 +3,8 @@
 owner = GAL
 controller = GAL
 add_core = GAL
-culture = galician
+add_core = URI
+culture = suebi
 religion = catholic
 capital = "Aveiro"
 trade_goods = fish

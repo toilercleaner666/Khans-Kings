@@ -1,0 +1,15 @@
+############################# KINGS AND KHANS #################################################
+
+#Modded North Africa:
+VAN = countries/Vandalica.txt
+
+#Modded Iberia:
+VIS = countries/Visigothica.txt
+CBR = countries/Cantabria.txt
+VAS = countries/Vasconia.txt
+URI = countries/Buria.txt
+BAE = countries/Baetica.txt
+LUS = countries/Lusitania.txt
+
+#Modded Balkan:
+LAT = countries/LatinEmpire.txt

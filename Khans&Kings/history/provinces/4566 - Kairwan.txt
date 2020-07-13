@@ -2,7 +2,7 @@
 owner = VAN
 controller = VAN
 add_core = VAN
-culture = tunisian
+culture = vandal
 religion = zoroastrian
 capital = "Kairwan"
 trade_goods = grain
