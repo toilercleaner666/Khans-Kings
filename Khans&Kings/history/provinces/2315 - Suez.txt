@@ -1,9 +1,10 @@
 #2315 - Suez
 
-owner = MAM
-controller = MAM
+owner = EGY
+controller = EGY
+add_core = EGY
 culture = al_misr_arabic
-religion = sunni
+religion = zoroastrian
 capital = "Suweis"
 trade_goods = livestock
 hre = no
@@ -21,8 +22,3 @@ discovered_by = indian
 discovered_by = east_african
 
 
-1521.1.1 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-} # Conquered by the Ottomans

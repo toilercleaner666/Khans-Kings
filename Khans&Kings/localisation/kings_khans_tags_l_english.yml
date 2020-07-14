@@ -17,3 +17,7 @@
  LAT_ADJ:0 "Latin"
  MAC:0 "Macedonia"
  MAC_ADJ:0 "Macedonian"
+ NIC:0 "Nicaea"
+ NIC_ADJ:0 "Nicaean"
+ GLT:0 "Galatia"
+ GLT_ADJ:0 "Galatian"

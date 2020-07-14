@@ -14,3 +14,7 @@ LUS = countries/Lusitania.txt
 #Modded Balkan:
 LAT = countries/LatinEmpire.txt
 MAC = countries/Macedonia.txt
+
+#Modded Anatolia:
+NIC = countries/Nicaea.txt
+GLT = countries/Galatia.txt

@@ -1,10 +1,10 @@
 #299 - Voronezh
 
-owner = VAN
-controller = VAN
-add_core = VAN
+owner = GOL
+controller = GOL
+add_core = GOL
 culture = mishary
-religion = catholic
+religion = sunni
 hre = no
 base_tax = 3
 base_production = 3
