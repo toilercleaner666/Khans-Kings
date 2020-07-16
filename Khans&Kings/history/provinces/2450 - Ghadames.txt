@@ -1,9 +1,10 @@
 # - Ghadames
 
-owner = GHD
-controller = GHD 
-culture = tunisian
-religion = sunni
+owner = NEM
+controller = NEM
+add_core = NEM
+culture = berber
+religion = zoroastrian
 capital = "Ghadames"
 trade_goods = spices #Dates
 hre = no
@@ -11,7 +12,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = GHD
+
 
 
 
@@ -21,8 +22,3 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
-1830.1.1 = {
-	owner = TUN
-	controller = TUN
-	add_core = TUN
-}

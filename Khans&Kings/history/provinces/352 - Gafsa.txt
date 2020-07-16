@@ -1,8 +1,8 @@
 #352 - Gafsa
 
-owner = CAP
-controller = CAP
-add_core = CAP
+owner = NEM
+controller = NEM
+add_core = NEM
 culture = berber
 religion = zoroastrian
 capital = "Gafsa"

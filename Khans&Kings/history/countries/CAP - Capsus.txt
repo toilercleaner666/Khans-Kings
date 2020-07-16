@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = berber
 religion = zoroastrian
 technology_group = western
-capital = 352	
+capital = 2453	
 
 
 

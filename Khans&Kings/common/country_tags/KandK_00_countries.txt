@@ -4,6 +4,8 @@
 VAN = countries/Vandalica.txt
 TAV = countries/Altava.txt
 CAP = countries/Capsus.txt
+AUR = countries/Aures.txt
+NEM = countries/Nemencha.txt
 
 #Modded Iberia:S
 VIS = countries/Visigothica.txt
