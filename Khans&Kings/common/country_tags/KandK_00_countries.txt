@@ -2,8 +2,10 @@
 
 #Modded North Africa:
 VAN = countries/Vandalica.txt
+TAV = countries/Altava.txt
+CAP = countries/Capsus.txt
 
-#Modded Iberia:
+#Modded Iberia:S
 VIS = countries/Visigothica.txt
 CBR = countries/Cantabria.txt
 VAS = countries/Vasconia.txt
