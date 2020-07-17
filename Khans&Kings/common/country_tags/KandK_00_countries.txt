@@ -6,6 +6,8 @@ TAV = countries/Altava.txt
 CAP = countries/Capsus.txt
 AUR = countries/Aures.txt
 NEM = countries/Nemencha.txt
+OUR = countries/Ourasenis.txt
+HDN = countries/Hodna.txt
 
 #Modded Iberia:S
 VIS = countries/Visigothica.txt

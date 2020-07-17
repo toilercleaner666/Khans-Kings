@@ -1,8 +1,8 @@
 # - Hodna
 
-owner = AUR
-controller = AUR
-add_core = AUR
+owner = HDN
+controller = HDN
+add_core = HDN
 culture = berber
 religion = zoroastrian
 capital = "Msila"

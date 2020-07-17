@@ -19,13 +19,5 @@ discovered_by = ottoman
 discovered_by = eastern
 extra_cost = 8
 center_of_trade = 1
+add_core = OUR
 
-
-1510.1.1 = {
-	owner = ALG
-	controller = ALG
-} # Captured by Spain
-1524.1.1 = { controller = KBA } #War with the Kabyles
-1525.1.1 = { controller = ALG } #Retaken by Barbarossa
-1530.1.1 = { fort_15th = yes } # Fortified
-1581.1.1 = { fort_15th = no fort_16th = yes }

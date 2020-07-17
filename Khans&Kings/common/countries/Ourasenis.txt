@@ -1,0 +1,47 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 71  121  62 }
+
+revolutionary_colors = { 71  121  62 }
+
+historical_idea_groups = {
+	economic_ideas
+	offensive_ideas
+	exploration_ideas
+	defensive_ideas	
+	administrative_ideas	
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+
+
+
+
+army_names = {
+	"Taredsa deg $PROVINCE$" 
+}
+
