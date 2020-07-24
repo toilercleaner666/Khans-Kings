@@ -1,10 +1,10 @@
 #Demnate
 
-owner = MOR
-controller = MOR 
-add_core = MOR 
-culture = moroccan
-religion = sunni
+owner = TFL
+controller = TFL
+add_core = TFL
+culture = berber
+religion = catholic
 capital = "Demnate"
 trade_goods = wool
 hre = no

@@ -3,7 +3,7 @@
 owner = GLT
 controller = GLT
 add_core = GLT
-culture = galatian
+culture = cibyrrhaeot
 religion = orthodox
 capital = "Konya"
 trade_goods = salt

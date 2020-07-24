@@ -1,9 +1,10 @@
 # - Zuwarah
 
-owner = TUN
-controller = TUN 
-culture = tunisian
-religion = ibadi
+owner = CAP
+controller = CAP
+add_core = CAP
+culture = berber
+religion = zoroastrian
 capital = "Zuwarah"
 trade_goods = fish
 hre = no
@@ -11,8 +12,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = TUN
-add_core = TRP
+
 
 
 

@@ -4,7 +4,7 @@ primary_culture = visigothic
 religion = catholic
 technology_group = western
 capital = 219
-
+historical_rival = AQT
 
 
 change_estate_land_share = {

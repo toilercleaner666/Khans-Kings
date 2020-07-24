@@ -3,6 +3,7 @@
 owner = EGY
 controller = EGY
 add_core = EGY
+add_core = CRT
 religion = orthodox
 culture = greek
 capital = "Heraklion"

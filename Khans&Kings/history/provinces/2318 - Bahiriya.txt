@@ -1,10 +1,10 @@
 #2318 - Bahariya
 
-owner = MAM
-controller = MAM #Local Badawin in control
-add_core = MAM
+owner = EGY
+controller = EGY
+add_core = EGY
 culture = al_misr_arabic
-religion = sunni
+religion = zoroastrian
 capital = "el Qasr"
 is_city = yes
 base_manpower = 2
@@ -22,8 +22,3 @@ discovered_by = indian
 discovered_by = east_african
 
 
-1517.1.1 = { add_core = TUR remove_core = MAM } # Mamluks fall to the Ottomans but do not advance up the Nile.
-1542.1.1 = {
-	owner = TUR
-	controller = TUR
-} # Ottomans occupy oasis

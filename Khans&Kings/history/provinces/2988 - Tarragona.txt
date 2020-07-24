@@ -1,7 +1,8 @@
 # - Tarragona
 
-owner = CAT
-controller = CAT
+owner = AQT
+controller = AQT
+add_core = AQT
 add_core = CAT
 culture = catalan
 religion = catholic

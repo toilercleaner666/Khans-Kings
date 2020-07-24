@@ -1,10 +1,10 @@
 #339 - Bejaia
 
-owner = TUN
-controller = TUN
-add_core = TUN
+owner = TEM
+controller = TEM
+add_core = TEM
 culture = vandal
-religion = sunni
+religion = zoroastrian
 capital = "Bejaia"
 trade_goods = iron
 hre = no
@@ -12,7 +12,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-
+add_core = VAN
 
 
 

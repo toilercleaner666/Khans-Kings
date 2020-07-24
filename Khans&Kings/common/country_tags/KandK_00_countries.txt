@@ -8,6 +8,9 @@ AUR = countries/Aures.txt
 NEM = countries/Nemencha.txt
 OUR = countries/Ourasenis.txt
 HDN = countries/Hodna.txt
+TEM = countries/KnightsTemplar.txt
+CBN = countries/Cabaon.txt
+BGW = countries/Barghawata.txt
 
 #Modded Iberia:S
 VIS = countries/Visigothica.txt
@@ -24,3 +27,9 @@ MAC = countries/Macedonia.txt
 #Modded Anatolia:
 NIC = countries/Nicaea.txt
 GLT = countries/Galatia.txt
+CIB = countries/Cibyrrhaeot.txt
+ISA = countries/Isauria.txt
+
+#Modded France:
+AQT = countries/Aquitaine.txt
+VRD = countries/Verdun.txt

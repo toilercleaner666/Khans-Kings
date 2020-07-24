@@ -1,7 +1,8 @@
 # 173 Labourd - Principal cities: Bayonne (can't change file name)
 
-owner = VAS
-controller = VAS
+owner = GUY
+controller = GUY
+add_core = GUY
 add_core = VAS
 capital = "Bayonne"
 is_city = yes

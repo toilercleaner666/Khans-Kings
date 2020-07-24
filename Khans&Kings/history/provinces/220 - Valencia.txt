@@ -3,7 +3,7 @@
 owner = VIS
 controller = VIS
 add_core = VIS
-culture = catalan
+culture = visigothic
 religion = catholic
 hre = no
 base_tax = 6 

@@ -1,0 +1,19 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+primary_culture = berber
+religion = catholic
+technology_group = western
+capital = 344
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Abu Walid"
+		dynasty = "Saadi"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_piety = 1.0
+}

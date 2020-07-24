@@ -1,10 +1,10 @@
 #4323 - Farafreh
 
-owner = MAM
-controller = MAM #Local Badawin in control
-add_core = MAM
+owner = EGY
+controller = EGY
+add_core = EGY
 culture = al_misr_arabic
-religion = sunni
+religion = zoroastrian
 capital = "Farafreh"
 is_city = yes
 base_manpower = 1
@@ -21,9 +21,3 @@ discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
 
-1517.1.1 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-	remove_core = MAM
-} # Invaded by the Ottomans

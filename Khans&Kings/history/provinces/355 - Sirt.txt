@@ -1,9 +1,10 @@
 #355 - Sirt
 
-owner = FZA
-controller = FZA
-culture = tunisian
-religion = sunni
+owner = CBN
+controller = CBN
+add_core = CBN
+culture = berber
+religion = zoroastrian
 capital = "Ben Jawad"
 trade_goods = fish
 hre = no
@@ -11,8 +12,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = FZA
-add_core = TRP
 add_local_autonomy = 25
 
 
@@ -23,7 +22,3 @@ discovered_by = ottoman
 discovered_by = eastern
 
 
-1558.1.1 = {
-	owner = TRP
-	controller = TRP
-} #Turgut Reis conquers Sirte

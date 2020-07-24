@@ -1,8 +1,7 @@
 # - El Kef
 
-owner = TUN
-controller = TUN
-add_core = TUN
+owner = VAN
+controller = VAN
 add_core = VAN
 culture = vandal
 religion = zoroastrian

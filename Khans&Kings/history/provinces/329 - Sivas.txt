@@ -1,7 +1,8 @@
 #329 - Sivas
 
-owner = GLT
-controller = GLT
+owner = ARM
+controller = ARM
+add_core = ARM
 add_core = GLT
 culture = galatian
 religion = orthodox
