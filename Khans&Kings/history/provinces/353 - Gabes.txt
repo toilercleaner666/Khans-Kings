@@ -3,7 +3,7 @@
 owner = CAP
 controller = CAP
 add_core = CAP
-culture = berber
+culture = zenatan
 religion = zoroastrian
 capital = "Tataouine"
 trade_goods = grain

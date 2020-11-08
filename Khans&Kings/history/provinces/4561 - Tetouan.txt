@@ -3,7 +3,7 @@
 owner = BAE
 controller = BAE
 add_core = BAE
-culture = berber
+culture = riffian
 religion = catholic
 capital = "Tetouan"
 trade_goods = grain

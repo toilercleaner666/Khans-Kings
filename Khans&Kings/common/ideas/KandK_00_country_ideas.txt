@@ -1,0 +1,49 @@
+# Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+### Nation specific idea groups
+
+
+# North Africa #
+
+MAU_ideas = {
+	start = {
+	may_recruit_female_generals = yes
+	female_advisor_chance = 0.5
+	}
+
+	bonus = {
+		core_creation = -0.05
+	}
+
+	trigger = {
+		tag = MAU
+	}
+	free = yes
+
+	mau_legend_of_king_atlas = {
+	prestige = 0.5
+	}
+	mau_mauretanian_raiders = {
+	land_morale = 0.10
+ may_perform_slave_raid = yes
+	}
+	mau_celestial_globes = {
+	global_colonial_growth = 25
+	range = 0.25
+	}
+	mau_it_flows_and_will_flow = {
+		trade_efficiency = 0.15
+	}
+	mau_shield_of_christianity = {
+	tolerance_own = 1
+	}
+	mau_the_pillars_of_hercules = {
+	global_trade_power = 0.1
+	}
+	mau_roman_tetrarchy = {
+		governing_capacity = 150
+	}
+
+}

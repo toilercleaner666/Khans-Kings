@@ -3,7 +3,7 @@
 owner = CBN
 controller = CBN
 add_core = CBN
-culture = berber
+culture = zenatan
 religion = zoroastrian
 capital = "Murzuk"
 trade_goods = ivory

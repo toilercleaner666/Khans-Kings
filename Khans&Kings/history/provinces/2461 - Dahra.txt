@@ -3,7 +3,7 @@
 owner = TEM
 controller = TEM
 add_core = TEM
-culture = berber
+culture = chaoui
 religion = catholic
 capital = "Mostaganem"
 trade_goods = grain

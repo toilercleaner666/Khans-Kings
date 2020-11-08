@@ -1,8 +1,8 @@
 # 179 Berry
 
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = AQT
+controller = AQT
+add_core = AQT
 add_core = BUR
 capital = "Bourges"
 is_city = yes

@@ -3,7 +3,7 @@
 owner = TFL
 controller = TFL
 add_core = TFL
-culture = berber
+culture = ishelhien
 religion = catholic
 capital = "Las Palmas"
 trade_goods = sugar

@@ -1,0 +1,226 @@
+country_decisions = {
+
+mauritania_nation_formable_decision = {
+
+major = yes
+
+potential = {
+
+culture_group = maghrebi
+religion_group = christian
+
+NOT = { has_country_flag = formed_mauritania_flag }
+NOT = { has_country_flag = formed_tamazgha_flag }
+
+}
+
+	provinces_to_highlight = {
+
+  OR = {
+    province_id = 337	# Oran
+    province_id = 336	# Altava
+    province_id = 2465			# Oujda
+    province_id = 4562			# Mers El
+    province_id = 335			# Melilla
+    province_id = 4561		  # Tetouan
+    province_id = 1751		  # Septimia
+    province_id = 334			# Tangiers
+    province_id = 346      # Tafifalt
+    province_id = 2467     # Meknes
+    province_id = 334      # Marrakesh
+
+    AND = {
+      OR = {
+        province_id = 338
+      }
+      ROOT = { NOT = { owns_core_province = 1110 } }
+    }
+
+    AND = {
+      OR = {
+        province_id = 1110
+      }
+      ROOT = { NOT = { owns_core_province = 338 } }
+    }
+
+}
+
+
+OR = {
+  NOT = { owned_by = ROOT }
+  NOT = { is_core = ROOT }
+
+}
+
+}
+
+allow = {
+
+NOT = { exists = MAU }
+is_nomad = no
+is_free_or_tributary_trigger = yes
+is_at_war = no
+owns_core_province = 337			# Oran
+owns_core_province = 336			# Altava
+owns_core_province = 2465			# Oujda
+owns_core_province = 4562			# Mers El
+owns_core_province = 335			# Melilla
+owns_core_province = 4561		  # Tetouan
+owns_core_province = 1751		  # Septimia
+owns_core_province = 334			# Tangiers
+owns_core_province = 346      # Tafifalt
+owns_core_province = 2467     # Meknes
+owns_core_province = 334      # Marrakesh
+
+OR = {
+            owns_core_province = 1110			# agedir
+            owns_core_province = 338			  # Mitidja
+}
+
+}
+
+effect = {
+
+
+change_tag = MAU
+set_country_flag = formed_mauritania_flag
+swap_non_generic_missions = yes
+
+remove_non_electors_emperors_from_empire_effect = yes
+
+add_prestige = 25
+
+add_country_modifier = {
+	name = centralization_modifier
+	duration = 3650
+}
+
+if = {
+	limit = {
+		NOT = { government_rank = 2 }
+	}
+	set_government_rank = 2
+}
+
+if = {
+	limit = {
+		government = tribal
+	}
+	change_government_to_monarchy = yes #Desert tribes settling down, theocracies become monarchies.
+	#set_legacy_government = despotic_monarchy
+}
+
+northern_morocco_area = {
+	limit = {
+		NOT = { owned_by = ROOT }
+	}
+	add_permanent_claim = MAU
+}
+gharb_area = {
+	limit = {
+		NOT = { owned_by = ROOT }
+	}
+	add_permanent_claim = MAU
+}
+marrekesh_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = MAU
+}
+southern_morocco_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = MAU
+}
+sus_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = MAU
+}
+tafilalt_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = MAU
+}
+algiers_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = MAU
+}
+barbary_coast_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = MAU
+}
+high_plains_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = MAU
+}
+
+if = {
+	limit = { has_custom_ideas = no }
+	country_event = { id = ideagroups.1 } #Swap Ideas
+}
+
+
+
+}
+
+ai_will_do = {
+	factor = 1
+}
+
+ai_importance = 400
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+}

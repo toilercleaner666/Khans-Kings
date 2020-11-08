@@ -3,7 +3,7 @@
 owner = BGW
 controller = BGW
 add_core = BGW
-culture = berber
+culture = riffian
 religion = catholic
 capital = "Fez"
 trade_goods = cloth

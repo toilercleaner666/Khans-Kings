@@ -3,7 +3,7 @@
 owner = NEM
 controller = NEM
 add_core = NEM
-culture = berber
+culture = zenatan
 religion = zoroastrian
 capital = "Ghadames"
 trade_goods = spices #Dates

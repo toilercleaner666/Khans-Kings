@@ -1,0 +1,35 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = norwegian
+add_accepted_culture = icelandic
+religion = orthodox
+technology_group = western
+historical_friend = DAN
+capital = 17 #Akershus
+
+
+1436.1.1 = { 
+	leader = { 
+		name = "Amund Bolt"
+		type = general  
+		fire = 1 
+		shock = 2 
+		manuever = 2 
+		siege = 0 
+		death_date = 1440.1.1 
+	} 
+}
+
+
+
+1414.2.16 = {
+	monarch = {
+		name = "Christian Frederik"
+		dynasty = "von Oldenburg"
+		culture = danish
+		birth_date = 1786.9.18
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}

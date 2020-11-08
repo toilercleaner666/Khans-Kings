@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = berber
+primary_culture = chaoui
 religion = zoroastrian
 technology_group = western
 capital = 2462	

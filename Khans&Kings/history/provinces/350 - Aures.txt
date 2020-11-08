@@ -3,7 +3,7 @@
 owner = AUR
 controller = AUR
 add_core = AUR
-culture = berber
+culture = chaoui
 religion = zoroastrian
 capital = "Laghwat"
 trade_goods = livestock

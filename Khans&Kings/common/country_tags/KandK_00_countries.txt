@@ -11,8 +11,11 @@ HDN = countries/Hodna.txt
 TEM = countries/KnightsTemplar.txt
 CBN = countries/Cabaon.txt
 BGW = countries/Barghawata.txt
+MAU = countries/Mauritania.txt
+NMD = countries/Numidia.txt
+TMZ = countries/Tamazgha.txt
 
-#Modded Iberia:S
+#Modded Iberia:
 VIS = countries/Visigothica.txt
 CBR = countries/Cantabria.txt
 VAS = countries/Vasconia.txt
@@ -33,3 +36,11 @@ ISA = countries/Isauria.txt
 #Modded France:
 AQT = countries/Aquitaine.txt
 VRD = countries/Verdun.txt
+
+#Modded Scandinavia:
+SVA = countries/Svealand.txt
+NRL = countries/Norrland.txt
+GTA = countries/Gotaland.txt
+
+#Modded Eastern Europe
+PCH = countries/Pechenegs.txt

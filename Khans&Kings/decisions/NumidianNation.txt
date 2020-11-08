@@ -1,0 +1,234 @@
+country_decisions = {
+
+numidia_nation_formable_decision = {
+
+major = yes
+
+potential = {
+
+culture_group = maghrebi
+religion_group = zoroastrian_group
+
+NOT = { has_country_flag = formed_numidia_flag }
+NOT = { has_country_flag = formed_tamazgha_flag }
+
+}
+
+	provinces_to_highlight = {
+
+  OR = {
+    province_id = 351			# Biskra
+    province_id = 2458			# Hodna
+    province_id = 350			# Laghouat
+    province_id = 2457			# Mzab
+    province_id = 2456		  # Touggourt
+    province_id = 2472		  # Ouargla
+    province_id = 352		  # Qafsa
+    province_id = 2450			# Ghadames
+    province_id = 354      # Tripoli
+    province_id = 338      # Mitidja
+    province_id = 1882     # Annaba
+
+    AND = {
+      OR = {
+        province_id = 341
+      }
+      ROOT = { NOT = { owns_core_province = 336 } }
+    }
+
+    AND = {
+      OR = {
+        province_id = 336
+      }
+      ROOT = { NOT = { owns_core_province = 341 } }
+    }
+
+}
+
+
+OR = {
+  NOT = { owned_by = ROOT }
+  NOT = { is_core = ROOT }
+
+}
+
+}
+
+allow = {
+
+NOT = { exists = NMD }
+is_nomad = no
+is_free_or_tributary_trigger = yes
+is_at_war = no
+owns_core_province = 351			# Biskra
+owns_core_province = 2458			# Hodna
+owns_core_province = 350			# Laghouat
+owns_core_province = 2457			# Mzab
+owns_core_province = 2456		  # Touggourt
+owns_core_province = 2472		  # Ouargla
+owns_core_province = 352		  # Qafsa
+owns_core_province = 2450			# Ghadames
+owns_core_province = 354      # Tripoli
+owns_core_province = 338      # Mitidja
+owns_core_province = 1882     # Annaba
+
+OR = {
+            owns_core_province = 341			  # Carthago
+            owns_core_province = 336			  # Altava
+}
+
+}
+
+effect = {
+
+change_tag = NMD
+set_country_flag = formed_numidia_flag
+
+swap_non_generic_missions = yes
+
+remove_non_electors_emperors_from_empire_effect = yes
+
+add_prestige = 25
+
+add_country_modifier = {
+	name = centralization_modifier
+	duration = 3650
+}
+
+if = {
+	limit = {
+		NOT = { government_rank = 2 }
+	}
+	set_government_rank = 2
+}
+
+if = {
+	limit = {
+		government = tribal
+	}
+	change_government_to_monarchy = yes #Desert tribes settling down, theocracies become monarchies.
+	#set_legacy_government = despotic_monarchy
+}
+
+ouled_nail_area = {
+	limit = {
+		NOT = { owned_by = ROOT }
+	}
+	add_permanent_claim = NMD
+}
+north_saharan_area = {
+	limit = {
+		NOT = { owned_by = ROOT }
+	}
+	add_permanent_claim = NMD
+}
+algiers_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = NMD
+}
+kabylia_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = NMD
+}
+djerba_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = NMD
+}
+tripolitania_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = NMD
+}
+tunisia_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = NMD
+}
+fezzan_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = NMD
+}
+barbary_coast_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = NMD
+}
+high_plains_area = {
+	limit = {
+		NOT = {
+			owned_by = ROOT
+		}
+	}
+	add_permanent_claim = NMD
+}
+
+if = {
+	limit = { has_custom_ideas = no }
+	country_event = { id = ideagroups.1 } #Swap Ideas
+}
+
+
+
+}
+
+ai_will_do = {
+	factor = 1
+}
+
+ai_importance = 400
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+}

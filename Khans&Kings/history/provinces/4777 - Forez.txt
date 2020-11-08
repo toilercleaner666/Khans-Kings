@@ -1,9 +1,9 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = DAU
+controller = DAU
+add_core = DAU
 capital = "Montbrison"
 is_city = yes
-culture = occitain
+culture = burgundian
 religion = catholic
 hre = no
 base_tax = 3

@@ -1,0 +1,10 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = chaoui
+religion = zoroastrian
+technology_group = western
+historical_rival = MAU
+capital = 1882
+add_army_professionalism = 0.05
+
+

@@ -1,7 +1,8 @@
 # 178 Anjou - Principal cities: Angers
 
-owner = ORL
-controller = ORL
+owner = FRA
+controller = FRA
+add_core = FRA
 add_core = ORL
 culture = breton
 capital = "Angers"

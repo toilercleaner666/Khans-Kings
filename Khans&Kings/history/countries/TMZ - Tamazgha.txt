@@ -1,0 +1,9 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = barghawatan
+religion = catholic
+technology_group = western
+capital = 341
+add_army_professionalism = 0.1
+
+

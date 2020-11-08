@@ -1,8 +1,8 @@
 # 177 Maine - Principal cities: Le Mans, Laval
 
-owner = NRM
-controller = NRM
-add_core = NRM
+owner = ORL
+controller = ORL
+add_core = ORL
 add_core = BRI
 culture = breton
 capital = "Le Mans"

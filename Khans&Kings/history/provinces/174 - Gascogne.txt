@@ -1,7 +1,8 @@
 # 174 Gascogne - Principal cities: Bordeaux
 
-owner = GUY
-controller = GUY
+owner = AQT
+controller = AQT
+add_core = AQT
 add_core = GUY
 capital = "Bordeaux"
 is_city = yes

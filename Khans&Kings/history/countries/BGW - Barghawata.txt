@@ -1,7 +1,7 @@
-government = tribal
+government = monarchy
 add_government_reform = tribal_despotism
 government_rank = 1
-primary_culture = berber
+primary_culture = barghawatan
 religion = catholic
 technology_group = western
 capital = 344

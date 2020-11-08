@@ -3,7 +3,7 @@
 owner = TAV
 controller = TAV
 add_core = TAV
-culture = berber
+culture = riffian
 religion = catholic
 capital = "Mers el Kebir"
 trade_goods = cloth

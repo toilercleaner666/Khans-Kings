@@ -1,7 +1,8 @@
 # 180 Haut-Poitou. Principal cities: Poitiers
 
-owner = AQT
-controller = AQT
+owner = FRA
+controller = FRA
+add_core = FRA
 add_core = AQT
 capital = "Poitiers"
 is_city = yes
