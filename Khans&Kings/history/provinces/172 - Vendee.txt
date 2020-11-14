@@ -1,9 +1,9 @@
 # 172 Vendée - Principal cities: Nantes
 
-owner = BRI
-controller = BRI
-add_core = BRI
-culture = breton
+owner = AMO
+controller = AMO
+add_core = AMO
+culture = gaulish
 capital = "Nantes"
 is_city = yes
 religion = catholic

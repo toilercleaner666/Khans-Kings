@@ -1,6 +1,6 @@
-owner = GUY
-controller = GUY
-add_core = GUY
+owner = AQT
+controller = AQT
+add_core = AQT
 capital = "Foix"
 is_city = yes
 culture = gascon
@@ -12,6 +12,7 @@ trade_goods = wool
 base_manpower = 2
 add_core = FOI
 add_core = AMG
+add_core = GUY
 
 discovered_by = eastern
 discovered_by = western

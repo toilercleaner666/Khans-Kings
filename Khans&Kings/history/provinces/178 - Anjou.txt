@@ -1,10 +1,9 @@
 # 178 Anjou - Principal cities: Angers
 
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = ORL
+controller = ORL
 add_core = ORL
-culture = breton
+culture = gaulish
 capital = "Angers"
 is_city = yes
 religion = catholic

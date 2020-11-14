@@ -1,12 +1,12 @@
 # 180 Haut-Poitou. Principal cities: Poitiers
 
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = AQT
+controller = AQT
 add_core = AQT
+add_core = ORL
 capital = "Poitiers"
 is_city = yes
-culture = cosmopolitan_french
+culture = gascon
 religion = catholic 
 hre = no
 base_tax = 4
