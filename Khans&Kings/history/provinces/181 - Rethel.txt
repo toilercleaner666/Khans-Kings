@@ -3,7 +3,7 @@
 owner = VRD
 controller = VRD
 add_core = VRD
-culture = frankish
+culture = walloon
 capital = "Verdun"
 is_city = yes
 religion = catholic
