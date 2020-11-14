@@ -22,6 +22,7 @@ VAS = countries/Vasconia.txt
 URI = countries/Buria.txt
 BAE = countries/Baetica.txt
 LUS = countries/Lusitania.txt
+CBI = countries/Celtiberia.txt
 
 #Modded Balkan:
 LAT = countries/LatinEmpire.txt
@@ -36,6 +37,8 @@ ISA = countries/Isauria.txt
 #Modded France:
 AQT = countries/Aquitaine.txt
 VRD = countries/Verdun.txt
+GAU = countries/Gaul.txt
+AMO = countries/Armorica.txt
 
 #Modded Scandinavia:
 SVA = countries/Svealand.txt
@@ -44,3 +47,10 @@ GTA = countries/Gotaland.txt
 
 #Modded Eastern Europe
 PCH = countries/Pechenegs.txt
+HNS = countries/Huns.txt
+KIP = countries/Kipchaks.txt
+ALN = countries/Alania.txt
+KZA = countries/Khazaria.txt
+BGH = countries/Bolghars.txt
+CUM = countries/Cumania.txt
+OGH = countries/Oghuz.txt

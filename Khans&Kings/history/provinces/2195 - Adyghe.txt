@@ -1,7 +1,7 @@
 #2195 - Agyghe
-
-owner = CIR
-controller = CIR
+owner = ALN
+controller = ALN
+add_core = ALN
 culture = circassian
 religion = orthodox
 capital = "Sochi"

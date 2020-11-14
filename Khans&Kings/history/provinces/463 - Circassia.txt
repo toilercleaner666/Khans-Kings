@@ -1,7 +1,7 @@
 #463 - Circassia
-
-owner = CIR
-controller = CIR
+owner = ALN
+controller = ALN
+add_core = ALN
 culture = circassian
 religion = orthodox
 capital = "Adyche"
@@ -19,9 +19,4 @@ discovered_by = western
 discovered_by = nomad_group
 
 
-1555.1.1 = { owner = CIR controller = CIR }
-1801.1.18 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-} # Annexed by Russia
+

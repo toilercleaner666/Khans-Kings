@@ -4,10 +4,11 @@ latent_trade_goods = {
 	coal
 }
 
-owner = CRI
-controller = CRI
-culture = crimean
-religion = sunni
+owner = HNS
+controller = HNS
+add_core = HNS
+culture = hunnic
+religion = zoroastrian
 hre = no
 base_tax = 3
 base_production = 3
@@ -15,7 +16,6 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Tyn"
 is_city = yes
-add_core = CRI
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -23,12 +23,3 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 
-1572.8.2 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS 
-}
-1670.3.1 = { revolt = { type = anti_tax_rebels size = 2 name = "Stepan Razin" } controller = REB unrest = 6 } # Razin rebellion
-1671.4.14 = { revolt = { } controller = RUS unrest = 0 } # Razin captured
-1773.9.13 = { revolt = { type = anti_tax_rebels size = 2 name = "Yemelyan Pugachev" } controller = REB unrest = 6 } # Pugachev rebellion
-1775.2.1 = { revolt = {} controller = RUS unrest = 0 } # Pugachev is captured

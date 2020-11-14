@@ -1,0 +1,6 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = bashkir
+religion = zoroastrian
+technology_group = nomad_group
+capital = 475	# Bashkortostan
