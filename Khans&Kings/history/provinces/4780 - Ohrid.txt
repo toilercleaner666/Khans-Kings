@@ -1,9 +1,10 @@
 # 4780 - Ohrid
 
-owner = MAC
-controller = MAC
+owner = ALB
+controller = ALB
+add_core = ALB
 add_core = MAC
-culture = greek
+culture = albanian
 religion = orthodox
 capital = "Ohrid"
 trade_goods = wool

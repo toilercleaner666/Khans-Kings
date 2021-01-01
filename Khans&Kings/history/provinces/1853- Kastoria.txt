@@ -3,6 +3,7 @@
 owner = LAT
 controller = LAT
 add_core = LAT
+add_core = ALB
 culture = greek
 religion = orthodox
 capital = "Kastoria"

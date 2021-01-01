@@ -3,7 +3,7 @@
 owner = EGY
 controller = EGY
 add_core = EGY
-culture = greek
+culture = cibyrrhaeot
 religion = orthodox
 capital = "Rhodes"
 trade_goods = fish

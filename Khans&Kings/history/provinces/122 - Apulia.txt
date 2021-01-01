@@ -2,7 +2,8 @@
 
 owner = NAP
 controller = NAP
-culture = neapolitan 
+add_core = SRC
+culture = griko
 religion = catholic 
 hre = no 
 base_tax = 3 

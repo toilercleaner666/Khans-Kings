@@ -809,7 +809,106 @@ british	= {
 			Young Yelverton
 		}
 	}
-	welsh = {
+	
+}
+
+gaelic	= {
+	graphical_culture = westerngfx
+	
+	irish = {
+		primary = IRE
+		dynasty_names = { 
+			"O'Donnell" "O'Neill" "O'Connor" "O'Brien" MacLochlainn MacMurrough MacWilliam
+			MacNamara "O'Reilly"  "FitzGerald" Kelly
+			# CKII
+			"Meic Bráenáin" "MacMorrough Kavanagh" "Dál gCais" "Ua Fáeláin" "Shannon"
+			"FitzPatrick" "O Ruairc" "O'More" "O' Conchobair" "MacDermot" "O' Cellaigh"
+			"Mac Sweeney" "O'Doherty" "Burke" "O' Cathail" "O'Clery" "Mac Egan" "O' Fergail"
+			"O'Flaherty" "O' Gallchobhair" "Cotter" "O' Faoláin" "MacIntyre" "O'Queely"
+			"Corcu Loígde"
+		}
+		male_names = {
+			Turlough Donal Muireadhach Conchobhar Feidlimidh Cathaoir Muchadh Áed Fonnchadh Brian Criomhthann Art Cathal 
+			Gearóid Muiris Tadhg Seán Niall Einrí Conn Eoghan Aonghus Comhghall Maeleachlain Diarmaid Flann Aerdghal 
+			Bearach Caoímhin Donnabhain Eíhmhín Fearghal Iarfhlaith Lorccán Mathúin Naomhán Oisín Pádraig Ríagáin 
+			Somhairle
+			Aaron Aaron Abbán Abner Abner Abél Abel Adomnán Áed Hugh Áedgen Áeducán Áedán Hugh Áengus 
+			Affiath Ailbe Ailbrend Ailbrenn Ailchú Aildobur Ailgel Áilgenán Ailgus Ailill Ailpín Alwin 
+			Ainbchellach Áindle Ainftech Enfidaig Ainmere Airechtach Airfhindán Airfhindán Airfhinnán 
+			Airleid Airmedach Amalgaid Amlaíb Olaf Anfudán Anlón Anmchaid Ánrothán Ardgal Ardgar Art 
+			Arthur Angus
+			Artbran Artgal Artgus Artucán Artúr Arthur Assiucc Augaire Augustín Augustine Aurthuile 
+			Báethgalach Báethíne Báetán Béoáed Barrfhind Beccán Berrach Bhátair Walter Blathmacc Bran 
+			Brandub Brangen Bressal Brian Brian Briccéne Briccíne Broccán Bruatur Bruide Bride Brénaind 
+			Brénainn Bróen Búaidbéo Caicher Cailech Cailte Cairbre Carbrey Cairell Caisséne Caissín 
+			Canann Canannán Carlus Charles Cathal Cathalán Cathassach Cathbad Cathmáel Cathmál Cathnio 
+			Cathub Causantín Constantine Caílte Caínchomrac Caíndelbán Ceithernach Cellach Cellachán 
+			Cennétig Kentigern Cenn-Fáelad Cennlachán Cerball Cernach Cernachán Cian Ciarán Cilléne 
+			Cináed Kenneth Clemens Clement Cobthach Coirpre Colcu Colmán Nicholas Columb Nicholas Comgán 
+			Conaing Conall Conall Conallán Conamail Conán Conan Conchenn Conchobar Condla Condla Congal 
+			Congalach Congus Conlang Conmac Conmacc Conmáel Conmál Conn Conn Connla Conrí Constans 
+			Constantius Constantín Constantine Corbb Corbán Corccán Corcrán Cormac Coscrach Coílboth 
+			Crimthann Crundmáel Crundmáel Cruinnmáel Crundmáel Críchán Crónán Cuilén Cuindles Cuircthe 
+			Cummascach Cáemán Cóelbad Cóelub Cóemán Cú-Allaid Cú-Bretan Cú-Caech Cú-Cen Cú-Cen-Máthair 
+			Cú-Cúaráin Cú-Gamna Cú-Roí Cúanu Cúldub Cúán Cúánán Dabíd David Daigre Dalbach Dallán Daniél 
+			Daniel Dathal Dathgus Demmán Diarmait Dermid Doedgus Domangart Domnall Donald Donn Donnchad 
+			Duncan Donncuan Duncan Donndubán Donngal Donnucán Duncan Doélgus Drost Drust Dub-dá-Lethe 
+			Dubcenn Dubgenn Dubh Duff Dubhghall Dugald Dubhglais Douglas Dubthach Dubáed Dubán Duiblesc 
+			Duibne Dunáed Dálach Dícuill Díglach Dímmae Dímmasach Dímmán Dínertach Dúnacán Dúnadach 
+			Duncan Dúngal Dúngalach Dúnlang Éamonn Edmund Echmarcach Échtgal Échtgus Echthigern Echuid 
+			Éicnech Éicnechán Eláir Énna Énri Henry Éochad Eochaid Eochaid Eochu Eochucán Éogan Eugene 
+			Eric Ercaid Ercáed Ercán Éremón Érennach Ernán Eterscél Eógan Eugene Eóganán Eugene Fachtna 
+			Fairchellach Fallaman Farannán Faílbe Fearghus Fergus Fechtnach Fedach Fearchar Farquhar 
+			Fedelmid Feirgil Felic Fer-Fugaill Feradach Feradach Ferdomnach Fergal Fergus Fergus 
+			Fianchú Findbarr Fingen Finguine Finn Finn Finnacán Finnbarr Finnchú Finnlagh Findlay 
+			Finnsnechtae Fintan Flaithbertach Flaithem Flaithemán Flaithgus Flaithrí Flann Flannacán 
+			Flannchad Flannán Fogartach Folachtach Forannán Forbassach Fothad Fothud Fuacarta Fubthad 
+			Fuirechtach Fursu Fáelcar Fáelchad Fáelchú Fáeldobur Fáelgus Fáelán Fáelbe Fíachnae Fíadchú 
+			Fíngin Fínsnechta Fócarta Gabrán Garalt Garbith Gilla-Íosa Gilla-Brígte Gilbert Gilla-Coluim 
+			Gilla-Comgáin Gilla-Críst Gilchrist Gilla-na-Náem Gilla-Pátraic Gilpatrick Gilla-Ruad Gilroy 
+			Glaisiuc Glaschu Glún-Iairn Gofraid Godfrey Gormacán Gormgus Gormán Guaire Gáethán Gáethíne 
+			Gósacht Iacob Jacob Iarlaithe Imchad Indrechtach Ioseph Joseph Íomhar Ivar Labraid Lachtnae 
+			Lachtnán Lachtnéne Laidcenn Laidgenn Laidíne Laisrén Lennán Lennon Lethlobur Liam William 
+			Lochlann Loingsech Lonán Lorcán Lugh Leon Lugaid Lugáed Láegaire Lóchéne Lóchíne Lóeguire 
+			Mac-Laisre Mainchíne Maine Manchán Martan Mathgamain Matudán Minchán Mo-Chonna Mo-Lua 
+			Móenach Máel-Anfaid Liber Fiachnae Erc Dúnchad Cillíne Caissíne Bran
+			Morand Morann Mugrón Muirchertach Muirecán Muiredach Murdoch Muirgius Murchad Murchú 
+			Máel-Bresail Máel-Brígte Máel-Cein Máel-Cianáin Máel-Ciaráin Máel-Coluim Malcolm Máel-Corgis 
+			Máel-Dubh Maldoven Máel-Dúin Máel-Fothartaig Máel-Fábaill Máel-Íosa Malise Máel-Máedóc 
+			Máel-Martain Máel-Mórda Máel-Muire Malmure Máel-Míchíl Máel-Petair Máel-Pátraic Máel-Ruanaid 
+			Máel-Sechnaill Máel-Tólai Máelán Máenach Máthair Múadán Nadarchu Nannid Natfraech Natfraich 
+			Natsluaig Nechtan Nathan Niall Nigel Niallgus Niallán Nuadu Odrán Óengus Angus Óenucán 
+			Oissíne Olcán Ólchobar Onchú Orthanach Oscar Oscar Pátraic Patrick Petair Peter Pilib Pól 
+			Paul Proinsias Francis Rechtabra Riacán Riaguil Robartach Rogallach Rogellach Ruah Roy 
+			Roderick Ruarcc Rumann Ráthach Rígán Ríán Ródán Rónchú Rónán Ronan Rúadacán Rúadán Scandal 
+			Scandlán Scellán Scolaige Séaghdha Shaw Séafra Godfrey Séamas Jacob Seán John Sechnassach 
+			Selbach Senchán Seoán John Sinach Siothrún Godfrey Slébíne Snedgus Sogan Somhairle Somerled 
+			Suibne Sweeny Sáerbrethach Sárán Séigíne Sétna Sétnae Tadg Tadg Taithlech Talorc Talore 
+			Talorcán Temnén Tigernach Tigernán Tipraite Tomaltach Tomás Thomas Torccán Trenchad Trengus 
+			Tressach Tuathalán Tuireann Taran Tálán Tóla Túathal Tuathal Ualgarg Ualan Valentin Ualtar 
+			Walter Úamnachán Uargal Uargalach Uargus Uilliam William Ultán Ruaidrí Philip Oisséne
+		}
+		female_names = {
+			Saraid Órfhlaith Fedelma
+			Ablach Áedammair Affraic Euphemia Aíbinn Aibilín Eva Aileann Áine Agnes Anlaith Aróc Aíbinn 
+			Barrdub Ben-Laigen Ben-Míde Ben-Muman Ben-Ulad Brigit Brigit Bé-Fáil Bébinn Cacht 
+			Caillech-Fhinnéin Cainnech Caisséne Caitilín Catherine Caíntigern Caírech Cathán Catríona 
+			Catherine Cellach Ciar Cnes Coblaith Cobflaith Cobflaith Cobflaith Conchenn Condál Crínóch 
+			Crístina Christina Cumman Deirdre Der-bForgaill Devorguilla Derbáil Derborgaill Devorguilla 
+			Der-Ilei Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla 
+			Dúinsech Dúnlaith Echrad Éibhleann Eilionora Eleanor Eithne Eithne Ellbríg Emer Emer Étaín 
+			Eva Euginia Eugenia Faílenn Fedelm Finneacht Finnguala Finnguala Flann Forbflaith Fíne Garb 
+			Gelgéis Gerróc Gnathnad Gormflaith Gormflaith Gormlaith Gormflaith Gráinne Imag Íte Lann 
+			Lasairfíona Lathir Lerben Lerthan Lígach Lucia Lucia Martha Martha Mauda Matilda Muadhnait 
+			Muirenn Murron Muirgel Muriel Muirne Morna Máel-Mide Máel-Muire Malmure Máire Maria Máiread 
+			Máirgred Margaret Mór Mor Mór-Muman Nárbflaith Nuala Finnguala Órlaith Órnat Róis Ros Sadb 
+			Samthann Scáthach Sébdann Selblaith Seonaid Joan Sinech Siobán Joan Sisuile Sláíne Slaine 
+			Sorcha Suaibsech Sáerlaith Sétach Síthmaith Tailefhlaith Tailltiu Temair Tuathflaith Tómnat 
+			Uallach Uasal Úna Una Mona Éua
+		}
+	}
+
+welsh = {
 		primary = WLS
 		dynasty_names = { 
 			Aberffraw Dinefwr Mathrafal Gwynedd Tudor Kernew "of Cornwall" Glyndwr "Ternyllwg" 
@@ -938,103 +1037,7 @@ british	= {
 			Una
 		}
 	}
-}
 
-gaelic	= {
-	graphical_culture = westerngfx
-	
-	irish = {
-		primary = IRE
-		dynasty_names = { 
-			"O'Donnell" "O'Neill" "O'Connor" "O'Brien" MacLochlainn MacMurrough MacWilliam
-			MacNamara "O'Reilly"  "FitzGerald" Kelly
-			# CKII
-			"Meic Bráenáin" "MacMorrough Kavanagh" "Dál gCais" "Ua Fáeláin" "Shannon"
-			"FitzPatrick" "O Ruairc" "O'More" "O' Conchobair" "MacDermot" "O' Cellaigh"
-			"Mac Sweeney" "O'Doherty" "Burke" "O' Cathail" "O'Clery" "Mac Egan" "O' Fergail"
-			"O'Flaherty" "O' Gallchobhair" "Cotter" "O' Faoláin" "MacIntyre" "O'Queely"
-			"Corcu Loígde"
-		}
-		male_names = {
-			Turlough Donal Muireadhach Conchobhar Feidlimidh Cathaoir Muchadh Áed Fonnchadh Brian Criomhthann Art Cathal 
-			Gearóid Muiris Tadhg Seán Niall Einrí Conn Eoghan Aonghus Comhghall Maeleachlain Diarmaid Flann Aerdghal 
-			Bearach Caoímhin Donnabhain Eíhmhín Fearghal Iarfhlaith Lorccán Mathúin Naomhán Oisín Pádraig Ríagáin 
-			Somhairle
-			Aaron Aaron Abbán Abner Abner Abél Abel Adomnán Áed Hugh Áedgen Áeducán Áedán Hugh Áengus 
-			Affiath Ailbe Ailbrend Ailbrenn Ailchú Aildobur Ailgel Áilgenán Ailgus Ailill Ailpín Alwin 
-			Ainbchellach Áindle Ainftech Enfidaig Ainmere Airechtach Airfhindán Airfhindán Airfhinnán 
-			Airleid Airmedach Amalgaid Amlaíb Olaf Anfudán Anlón Anmchaid Ánrothán Ardgal Ardgar Art 
-			Arthur Angus
-			Artbran Artgal Artgus Artucán Artúr Arthur Assiucc Augaire Augustín Augustine Aurthuile 
-			Báethgalach Báethíne Báetán Béoáed Barrfhind Beccán Berrach Bhátair Walter Blathmacc Bran 
-			Brandub Brangen Bressal Brian Brian Briccéne Briccíne Broccán Bruatur Bruide Bride Brénaind 
-			Brénainn Bróen Búaidbéo Caicher Cailech Cailte Cairbre Carbrey Cairell Caisséne Caissín 
-			Canann Canannán Carlus Charles Cathal Cathalán Cathassach Cathbad Cathmáel Cathmál Cathnio 
-			Cathub Causantín Constantine Caílte Caínchomrac Caíndelbán Ceithernach Cellach Cellachán 
-			Cennétig Kentigern Cenn-Fáelad Cennlachán Cerball Cernach Cernachán Cian Ciarán Cilléne 
-			Cináed Kenneth Clemens Clement Cobthach Coirpre Colcu Colmán Nicholas Columb Nicholas Comgán 
-			Conaing Conall Conall Conallán Conamail Conán Conan Conchenn Conchobar Condla Condla Congal 
-			Congalach Congus Conlang Conmac Conmacc Conmáel Conmál Conn Conn Connla Conrí Constans 
-			Constantius Constantín Constantine Corbb Corbán Corccán Corcrán Cormac Coscrach Coílboth 
-			Crimthann Crundmáel Crundmáel Cruinnmáel Crundmáel Críchán Crónán Cuilén Cuindles Cuircthe 
-			Cummascach Cáemán Cóelbad Cóelub Cóemán Cú-Allaid Cú-Bretan Cú-Caech Cú-Cen Cú-Cen-Máthair 
-			Cú-Cúaráin Cú-Gamna Cú-Roí Cúanu Cúldub Cúán Cúánán Dabíd David Daigre Dalbach Dallán Daniél 
-			Daniel Dathal Dathgus Demmán Diarmait Dermid Doedgus Domangart Domnall Donald Donn Donnchad 
-			Duncan Donncuan Duncan Donndubán Donngal Donnucán Duncan Doélgus Drost Drust Dub-dá-Lethe 
-			Dubcenn Dubgenn Dubh Duff Dubhghall Dugald Dubhglais Douglas Dubthach Dubáed Dubán Duiblesc 
-			Duibne Dunáed Dálach Dícuill Díglach Dímmae Dímmasach Dímmán Dínertach Dúnacán Dúnadach 
-			Duncan Dúngal Dúngalach Dúnlang Éamonn Edmund Echmarcach Échtgal Échtgus Echthigern Echuid 
-			Éicnech Éicnechán Eláir Énna Énri Henry Éochad Eochaid Eochaid Eochu Eochucán Éogan Eugene 
-			Eric Ercaid Ercáed Ercán Éremón Érennach Ernán Eterscél Eógan Eugene Eóganán Eugene Fachtna 
-			Fairchellach Fallaman Farannán Faílbe Fearghus Fergus Fechtnach Fedach Fearchar Farquhar 
-			Fedelmid Feirgil Felic Fer-Fugaill Feradach Feradach Ferdomnach Fergal Fergus Fergus 
-			Fianchú Findbarr Fingen Finguine Finn Finn Finnacán Finnbarr Finnchú Finnlagh Findlay 
-			Finnsnechtae Fintan Flaithbertach Flaithem Flaithemán Flaithgus Flaithrí Flann Flannacán 
-			Flannchad Flannán Fogartach Folachtach Forannán Forbassach Fothad Fothud Fuacarta Fubthad 
-			Fuirechtach Fursu Fáelcar Fáelchad Fáelchú Fáeldobur Fáelgus Fáelán Fáelbe Fíachnae Fíadchú 
-			Fíngin Fínsnechta Fócarta Gabrán Garalt Garbith Gilla-Íosa Gilla-Brígte Gilbert Gilla-Coluim 
-			Gilla-Comgáin Gilla-Críst Gilchrist Gilla-na-Náem Gilla-Pátraic Gilpatrick Gilla-Ruad Gilroy 
-			Glaisiuc Glaschu Glún-Iairn Gofraid Godfrey Gormacán Gormgus Gormán Guaire Gáethán Gáethíne 
-			Gósacht Iacob Jacob Iarlaithe Imchad Indrechtach Ioseph Joseph Íomhar Ivar Labraid Lachtnae 
-			Lachtnán Lachtnéne Laidcenn Laidgenn Laidíne Laisrén Lennán Lennon Lethlobur Liam William 
-			Lochlann Loingsech Lonán Lorcán Lugh Leon Lugaid Lugáed Láegaire Lóchéne Lóchíne Lóeguire 
-			Mac-Laisre Mainchíne Maine Manchán Martan Mathgamain Matudán Minchán Mo-Chonna Mo-Lua 
-			Móenach Máel-Anfaid Liber Fiachnae Erc Dúnchad Cillíne Caissíne Bran
-			Morand Morann Mugrón Muirchertach Muirecán Muiredach Murdoch Muirgius Murchad Murchú 
-			Máel-Bresail Máel-Brígte Máel-Cein Máel-Cianáin Máel-Ciaráin Máel-Coluim Malcolm Máel-Corgis 
-			Máel-Dubh Maldoven Máel-Dúin Máel-Fothartaig Máel-Fábaill Máel-Íosa Malise Máel-Máedóc 
-			Máel-Martain Máel-Mórda Máel-Muire Malmure Máel-Míchíl Máel-Petair Máel-Pátraic Máel-Ruanaid 
-			Máel-Sechnaill Máel-Tólai Máelán Máenach Máthair Múadán Nadarchu Nannid Natfraech Natfraich 
-			Natsluaig Nechtan Nathan Niall Nigel Niallgus Niallán Nuadu Odrán Óengus Angus Óenucán 
-			Oissíne Olcán Ólchobar Onchú Orthanach Oscar Oscar Pátraic Patrick Petair Peter Pilib Pól 
-			Paul Proinsias Francis Rechtabra Riacán Riaguil Robartach Rogallach Rogellach Ruah Roy 
-			Roderick Ruarcc Rumann Ráthach Rígán Ríán Ródán Rónchú Rónán Ronan Rúadacán Rúadán Scandal 
-			Scandlán Scellán Scolaige Séaghdha Shaw Séafra Godfrey Séamas Jacob Seán John Sechnassach 
-			Selbach Senchán Seoán John Sinach Siothrún Godfrey Slébíne Snedgus Sogan Somhairle Somerled 
-			Suibne Sweeny Sáerbrethach Sárán Séigíne Sétna Sétnae Tadg Tadg Taithlech Talorc Talore 
-			Talorcán Temnén Tigernach Tigernán Tipraite Tomaltach Tomás Thomas Torccán Trenchad Trengus 
-			Tressach Tuathalán Tuireann Taran Tálán Tóla Túathal Tuathal Ualgarg Ualan Valentin Ualtar 
-			Walter Úamnachán Uargal Uargalach Uargus Uilliam William Ultán Ruaidrí Philip Oisséne
-		}
-		female_names = {
-			Saraid Órfhlaith Fedelma
-			Ablach Áedammair Affraic Euphemia Aíbinn Aibilín Eva Aileann Áine Agnes Anlaith Aróc Aíbinn 
-			Barrdub Ben-Laigen Ben-Míde Ben-Muman Ben-Ulad Brigit Brigit Bé-Fáil Bébinn Cacht 
-			Caillech-Fhinnéin Cainnech Caisséne Caitilín Catherine Caíntigern Caírech Cathán Catríona 
-			Catherine Cellach Ciar Cnes Coblaith Cobflaith Cobflaith Cobflaith Conchenn Condál Crínóch 
-			Crístina Christina Cumman Deirdre Der-bForgaill Devorguilla Derbáil Derborgaill Devorguilla 
-			Der-Ilei Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla 
-			Dúinsech Dúnlaith Echrad Éibhleann Eilionora Eleanor Eithne Eithne Ellbríg Emer Emer Étaín 
-			Eva Euginia Eugenia Faílenn Fedelm Finneacht Finnguala Finnguala Flann Forbflaith Fíne Garb 
-			Gelgéis Gerróc Gnathnad Gormflaith Gormflaith Gormlaith Gormflaith Gráinne Imag Íte Lann 
-			Lasairfíona Lathir Lerben Lerthan Lígach Lucia Lucia Martha Martha Mauda Matilda Muadhnait 
-			Muirenn Murron Muirgel Muriel Muirne Morna Máel-Mide Máel-Muire Malmure Máire Maria Máiread 
-			Máirgred Margaret Mór Mor Mór-Muman Nárbflaith Nuala Finnguala Órlaith Órnat Róis Ros Sadb 
-			Samthann Scáthach Sébdann Selblaith Seonaid Joan Sinech Siobán Joan Sisuile Sláíne Slaine 
-			Sorcha Suaibsech Sáerlaith Sétach Síthmaith Tailefhlaith Tailltiu Temair Tuathflaith Tómnat 
-			Uallach Uasal Úna Una Mona Éua
-		}
-	}
 	highland_scottish = {
 		primary = HSC
 
@@ -1734,6 +1737,31 @@ french	= {
 		primary = NRM
 	}
 
+        romano_british = { 
+		dynasty_names = {
+			Aemilia Antonia Atilia Atia Aufidia Aurelia Caecilia Calpurnia Cassia Claudia
+			Clodia Cornelia Domitia Fabia Flavia Fulvia Furia Gabinia Galeria Horatia Julia
+			Junia Licinia Livia Lucia Mamilia Manlia Maria Memmia Nigidia Octavia Papiria Plinia 
+			Postumia Pompeia Rabiria Quinctia Salvia Scribonia Sempronia Sertoria Silia Titia
+			Tullia Ulpia Valeria Vesuvia Vinicia Viridia Vitellia
+		}
+		male_names = {
+			Appius Aulus Caelus Decimus Decius Drusus Faustus Gaius Gnaeus Lucius Mamercus Manius Marcus Mettius Numerius Publius Quintus Secundus Septimus Servius Sextus Spurius Tertius Titus Tiberius Titus
+			Albinus Albus Agricola Agrippa Aratus Asina Auspex Balbus Barbatus Bibulus Brutus Bubo Buteo 
+			Caesar Calvus Calvinus Cato Catulus Cethegus Cicero Cinna Cotta Crispian Curio Dama Damasus Dentatus Dives Dolabella Donatus Draco
+			Emeritus Eugenius Euphemius Falco Falx Felix Fimbria Flaccus Florus Fronto 
+			Gala Galerus Gemellus Gorgonius Gracchus Gracilis Habitus Herma Hilarius Horatius
+			Ignatius Iuba Labeo Laenas Lepidus Leptis Lentulus Libo Longinus Longus Lucan Lucullus Lupius
+			Macro Martialis Marullus Maximus Memmius Mercator Messalla Montanus Murena Mus Nasica Oceanus Octavianus Opis
+			Optatus Otho Paenula Pantera Pavo Peregrinus Pertinax Petronax Pictor Pilatus Polus Prisca Primus Procyon Pulcher 
+			Quarto Quiricus Regillus Remus Romanus Romulus Rufus Ruso Sabinus Salinator Scaevola Scipio Scrofa Seneca Senna 
+			Severus Sorex Statius Strabo Super Superbus Tacitus Tertulus Trebonius Tibullus Tullius Ursinus Ursus Valens Varro Varus 
+			Vergilius Viator Victor Vindex Virilis Vitalis Vitus Zeno Zoilus Zosimus
+		}
+		female_names = {
+			Prima Secunda Tertia Quarta Quinta Septa Septima Octava Nona Decima Undecima Duodecima
+		}
+	}
 	
 	burgundian = {
 		primary = BUR
@@ -1985,23 +2013,7 @@ south_slavic = {
 			"Krum" "Dulo" "Cometopuli" "Asen" "Terter" "Shishman" "Teleki"
 		}
 	}
-	albanian = {
-		primary = ALB
-		male_names = {
-			Gjergj Lekë Gjon Kostandin Lulëzim Pal Tanush Aleksandër Karolus Filippo Adnan Agim Bashkim Besnik 
-			Dardan Dhurim Dritëro Elidon Erjon Fatmir Flamur Florin Hekuran Ilir Ismail Klodian Luigj Milaim 
-			Pashko Pëllumb Përparim Pjetër Rrok Shpëtim Tahir Viktor Xhevat Ylli Zenel Halil Ali Mustafa Qemal 
-			Mehmet Ramiz Edi Demaci Edon Dukagjin Haxhi Lishëndri Mensur Kreshnik Rahman Nxhiku Riza Rexhep 
-			Sulejman Selim Sadik Bujar Nikolla Enver Ramadan
-		}
-		female_names = {
-			Gjylo Afërdita Blerta Bora Dafina Dardana Era Fatmire Flutura Gentiana Jehona Lindita Lule Luljeta Pranvera Shpresa 
-			Shqipe Teuta Venera Vera Vesa Yllka
-		}
-	}
-	dynasty_names = { 
-		"Trpimirovic" "Svetoslavic" "Kosovic" "Kresimirovic" "Zrinski" "Domagojevic" "Hrvatinic" "Kotromanic" "Brankovic" "Lazarevic" "Ibrahimovic"
-	}
+	
 }
 	
 west_slavic = {
@@ -3246,6 +3258,148 @@ cibyrrhaeot = {
 		}
 	}
 
+
+
+albanian = {
+		primary = ALB
+		male_names = {
+			Gjergj Lekë Gjon Kostandin Lulëzim Pal Tanush Aleksandër Karolus Filippo Adnan Agim Bashkim Besnik 
+			Dardan Dhurim Dritëro Elidon Erjon Fatmir Flamur Florin Hekuran Ilir Ismail Klodian Luigj Milaim 
+			Pashko Pëllumb Përparim Pjetër Rrok Shpëtim Tahir Viktor Xhevat Ylli Zenel Halil Ali Mustafa Qemal 
+			Mehmet Ramiz Edi Demaci Edon Dukagjin Haxhi Lishëndri Mensur Kreshnik Rahman Nxhiku Riza Rexhep 
+			Sulejman Selim Sadik Bujar Nikolla Enver Ramadan
+		}
+		female_names = {
+			Gjylo Afërdita Blerta Bora Dafina Dardana Era Fatmire Flutura Gentiana Jehona Lindita Lule Luljeta Pranvera Shpresa 
+			Shqipe Teuta Venera Vera Vesa Yllka
+		}
+	}
+	dynasty_names = { 
+		"Trpimirovic" "Svetoslavic" "Kosovic" "Kresimirovic" "Zrinski" "Domagojevic" "Hrvatinic" "Kotromanic" "Brankovic" "Lazarevic" "Ibrahimovic"
+	}
+
+griko = {
+		primary = SRC
+		male_names = {
+			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
+			Andreas Andrew Andronikos Andronicus Anthemios Anthimos Antiochos Antonios Antonius Apollonios 
+			Arsenios Artemios Athanasios Athanasius Bardas
+			Bartholomaios Bartolomeus Basileios Basil Belisarios Belisarius Boethios Bosporios 
+			Christophoros Christopher Chrysanthos Chrysogonos Damianos Daniel Daniel David David Demetrios 
+			Demetrius Diogenes Dionysios Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios Euphemios Eusebios Eustathios Eustace Evangelos Gabriel Gabriel Gennadios Georgios 
+			George Gerasimos Germanos Germanus Gregoras Gregory Gregorios Gregory Hektorios Helias 
+			Herakleios Heracles Hierotheos Himerios
+			Georgios Alexandros Konstantinos Pavlos Andreas Nikolaos Aineias Alexeios Ambrosios
+			Chrysanthos David Demetrios Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor Herakles 
+			Kastor Manuel Matthaios Nestor Nikomedes Orestes Palaemon Pelagios Petros Philemon Philippos 
+			Skantarios Stefanos Theodoros Thomas Basileios Prokopios Ioannes Iason Bartholomaios
+		}
+		female_names = {
+			Alexandra Adriane Adriana Agathe Agatha Agne Agnes Aikaterine Alexeia Anastasia Anastasia 
+			Anna Anthe Anthousa Antipatra Antonia Apollonia Athanasia Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea Dorothy Aigidia Eirene Irene Elaiodora Epiphania 
+			Eudokia Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene Helen 
+			Ioanna Joan Ioulia Julia Iouliana Juliana Ioustina Justina Kale Konstantia Constantia 
+			Konstantine Constantina Kyra Kyriake Hypatia Zoe
+		}
+		dynasty_names = {
+			Kantakouzenos Doukas Komnenos Palaiologos Laskaris Angelos Phokas
+			# CKII
+			"Kameniatis" "Chameas" "Demetrianos" "Laloudios" "Stamopatas" "Peloponnesites" "Klados" "Avastaktos" 
+			"Lardotyros" "Kyritzios" "Kolovos" "Podopagouros" "Touvakes" "Peteinakes" "Ooryphas" "Myxares" "Toxias" 
+			"Bardouchos" "Boilas" "Skepides" "Mamoulianos" "Katakylas" "Drakokephalos" "Rentakes" "Exarchos" "Skepastos" 
+			"Kyminas" "Krasas" "Konstantinakes" "Mouzelis" "Souanites" "Karteroukas" "Machairas" "Koutzodaktylos" 
+			"Kanakaris" "Vamvaloudes" "Leontares" "Klokas" "Axiotes" "Chrysouchos" "Pyrrogenes" "Kophinas" "Makroleon" 
+			"Kalopragmon" "Karphitzes" "Trichares" "Kokkalos" "Kritharatos" "Kretikos" "Tourkos" "Symvatikes" 
+			"Glykomachaires" "Chrysochoos" "Vonos" "Mystakon" "Pterotos" "Monotes" "Manginos" 
+			"Kalavros" "Sikelos" "Kilikos" "Macrodoukas" "Aineidas" 
+			"Pegonitissos" "Kastriotis" "Kamateros" "Skleros"
+			"Makrembolites" "Botaneiates" "Diogenes" "Stratiotikos" "Monomachos" "Kalaphates" 
+			"Paphlagon" "Argyros" "Kourkouas" "Lekapenos" "Karbonopsis" "Makedon" "Stryphnos" "Euforbenos" 
+			"Gabras" "Aaron" "Lampinos" "Tzimiskes" "Kurtikainos" "Murzuphlos" "Balatios" "Ouranos" "Amorios" "Armenios" 
+			"Rangabes" "Logothetes" "Isauros" "Polites" "Studites" "Skamandrenos" "Synkellos" "Kauleas" "Monocharzanios" 
+			"Kassymatas" "Nesteutes" "Scholastikos" "Chrisostomos" "Nazianzen" "Nikomedianos" "Protokletos" "Garidas" 
+			"Grammatikos" "Zeno" "Gavalas" "Axuchos" "Kamonas" "Asidenos" "Hephaistos" "Karatzas" 
+			"Amiroutzes" "Bessarion" "Callistus" "Chalkokondyles" "Gazis" "Kourtesios" "Kallistos" "Kladas" "de Patras" 
+			"Gemistus" "Allatios" "Chalcocondyles" "Korniaktos" "Damaskenos" "Eparchos" "Flanginis" "Fokás" "Heraclides" 
+			"Kallokratos" "Kottounios" "Leontaritis" "Loukanis" "Margunios" "Musurus" "Nafpliotis" "Hatzidákis" 
+			"Aprenos"  "Chortatzis" "Gabrielopoulos" "Gounaropoulos" "Belissariotis" "Konstantopoulos" "Kavallarios" 
+			"Maniakis" "Notaras" "Sgouromallis" "Epiphanis" "Logaras" "Eudaimon" "Sakellarios" "Maurozoumis" "Stylaios" 
+			"Maleinos" "Basilakios" "Mamonas" "Kekaumenos" "Metaxas" "Kanavos" "Koukouzelis" "Koresis" "Makrinos" 
+			"Lambardas" "Adrianos" "Agallon" "Akropolites" "Aoinos" "Apokaukos" "Aprenos" "Arbantenos" "Argyros" 
+			"Arianites" "Atrapes" "Balsamon" "Batatzes" "Botaneiates" "Boumbalis" "Bourtzes" "Branas" "Bryennios" 
+			"Chandrenos" "Choniates" "Choumnos" "Chrysaphes" "Chrysoloras" "Dalassenos" "Dermokaïtes" "Diasorenos" 
+			"Dokeianos" "Eirenikos" "Exazenos" "Gavras" "Glabas" "Iagaris" "Kabakes" "Kabasilas" "Kalamanos" "Kaloethes" 
+			"Kalothetos" "Kamateros" "Katrares" "Kaukadenos" "Kontostephanos" "Koresses" "Kourkouas" 
+			"Kourtikes" "Limpidares" "Machoneos" "Makrembolites" "Malakes" "Maliasenos" "Mamalis" 
+			"Mandromenos" "Manouelites" "Melachroinos" "Mourtzouphlos" "Mouzakios" "Mouzalon" "Neokaisareites" 
+			"Nestongos" "Pantechnes" "Paraspondylos" "Petraliphas" "Petzikopoulos" "Philanthropenos" "Pleustes" 
+			"Prasomales" "Prinkips" "Psellos" "Radenos" "Rossatas" "Sarantapechos" "Sebastopoulos" "Segouropoulos" 
+			"Sgouros" "Spartenos" "Sphrantzes" "Strabomytes" "Synadenos" "Syraneres" "Syropoulos" "Tagares" 
+			"Tarchaneiotes" "Tornikes" "Trichas" "Tsaphas" "Tzamplakon" "Tzykandeles" "Zaridas" "Akunin" "Abalantes" 
+			"Aboudimos" "Adralestos" "Agallianos" "Agrites" "Akapnes" "Alopos" "Alousianos" "Alyattes" "Amaseianos" 
+			"Amiropoulos" "Anatolikos" "Andreiomenos" "Androsalites" "Anemas" "Angoures" "Anthemiotes" "Antiochites" 
+			"Antiochos" "Antipapas" "Arbintenos" "Areobindenos" "Areobindos" "Argyropoulos" "Aristenos" "Artoukomites" 
+			"Arvantenos" "Attaleiates" "Aulenos" "Aulepates" "Axinites" "Axiomatikos" "Balantes" "Barbaros" "Bardales" 
+			"Barenos" "Barsakes" "Barys" "Belissariotes" "Bempetziotes" "Beriboes" "Beriotes" "Blachernites" "Blangas" 
+			"Boïlas" "Bouches" "Boutzares" "Bouzenos" "Brachamios" "Bringas" "Chaldos" "Chalkites" "Chalkoutzes" 
+			"Chamaretos" "Charsianites" "Chasanes" "Chazanes" "Choinides" "Choirosphaktes" "Chomatenos" "Chordolibas" 
+			"Choriates" "Chrouselios" "Chrousos" "Chrysanthos" "Chryselios" "Chrysobalantites" "Chrysoberges" "Chytes" 
+			"Daimones" "Dalessenos" "Dalassenos Doukas" "Dekanos" "Diabatenos" "Dikaios" "Diogenes" "Domestikopouolos" 
+			"Doxapatres" "Drakontopoulos" "Drosinos" "Drosos" "Droulenos" 
+			"Elegmites" "Enochos" "Epanokomites" "Ergodotes" "Erotikos" "Eugenianos" "Eugenios" "Eulogios" "Exotrochos" 
+			"Gabalas" "Galaton" "Gelotes" "Gidos" "Glykys" "Goudeles" "Gourzoubathenos" "Granatos" "Gribas" "Grispos" 
+			"Gymnos" "Hagiochrisophorites" "Hagioprokopites" "Hagiotheodorites" "Hagiozacharites" "Hamartolos" 
+			"Haplorabdes" "Haploucheir" "Hexakionites" "Hexaklinites" "Hexamilites" "Hierakes" "Hikanatos" "Iasites" 
+			"Iberopoulos" "Isakiotes" "Italikos" "Kaballarios" "Kabasilas" "Kaisar" "Kalameteros" "Kalamaras" 
+			"Kalampakes" "Kalognomos" "Kamytzes Komnenodoukas" "Kappadokes" "Kappadox Kalampakes" "Karabitenos" 
+			"Karabitziotes" "Karaïonatan" "Karamallos" "Karandenos" "Karantes" "Kardamopoulos" "Karenos" "Karianites" 
+			"Karkaronymos" "Karmalikes" "Karouzeiates" "Kaspax" "Kastamonites" "Katakalon" "Katakalos" "Kataphloros" 
+			"Katas" "Katharos" "Katotikos" "Katzamoundes" "Kegenes" "Kekaleimenos" "Keklymmenos" "Kemineianos" "Kenchres" 
+			"Kentenares" "Kephalas" "Keroularios" "Kibyrraiotes" "Kinnamos" "Kokkinos" "Komnenodoukas" "Konops" 
+			"Kopsenos" "Kostomyres" "Kotertzes" "Kouloukes" "Kouneres" "Krateros" "Krinites" 
+			"Kritharas" "Kritopolos" "Kyminianos" "Kynochorites" "Kyriotes" "Kyritzes" "Labouzenos" "Laktentitzes" 
+			"Lalakon" "Lampsiotes" "Lapardas" "Leichoudes" "Lependrenos" "Leukedonites" "Libadares" "Libadas" 
+			"Libellisios" "Limas" "Liparites" "Lithokastrites" "Logariastes" "Loules" "Louloukes" "Lykaon" "Machetarios" 
+			"Madrites" "Madytenos" "Makropoderes" "Maleïnos" "Maleses" "Mamalos" "Manganes" "Marachas" "Marapas" 
+			"Marchapsabos" "Marianites" "Marzapoulos" "Matzaris" "Matzas" "Matzoukes" "Maurex" "Maurokatakalos" "Mauros" 
+			"Maurozomes" "Mechos" "Megalommates" "Megenos" "Meginos" "Melias" "Melissenos" "Mermentoulos" "Mesarites" 
+			"Meschos" "Mesopotamites" "Metochites" "Metropoulos" "Mitylenaios" "Monachites" "Monokarites" "Monomachatos" 
+			"Moroiannes" "Mosaraph" "Moschos" "Mosele" "Moungos" "Mourmoures" "Moustakes" "Mozaes" "Myralides" 
+			"Myredeïtes" "Myrelaetes" "Myron" "Nabatenos" "Narbiotes" "Narsites" "Neophytos" "Neustongios" "Nikerites" 
+			"Nikoulitzes" "Noe" "Oinaiotes" "Olyntenos" "Opos" "Pagomenos" "Pakourianos" "Paktiares" 
+			"Doukas Mourtzouphlos" "Palaiotes" "Palatinos" "Pamphilos" "Panaretos" "Pankalos" 
+			"Panokomites" "Parsakoutenos" "Parthenios" "Paxenos" "Pediasimos" "Peganites" "Pegonites" "Pekoules" 
+			"Pelamedes" "Pentarkles" "Pepagomenos" "Pepanos" "Perenos" "Peribleptenos" "Phalkon" "Phialites" "Philaretos" 
+			"Philinos" "Philokales" "Phrangopolos" "Pistophilos" "Pleures" "Politopolos" "Pothos" "Probatas" 
+			"Promountenos" "Proteuon" "Ptochos" "Rentakenos" "Rizenos" "Rodios" "Rogerios" "Romaios" "Rousopoulos" 
+			"Sagopoulos" "Sarakenopoulos" "Saronites" "Sauloioannes" "Semnos" "Serblias" "Sikoundenos" "Sinopites" 
+			"Skandales" "Skanranos" "Skeblenos" "Skoutariotes" "Skribas" "Smyrnaios" "Solomon" "Sortes" 
+			"Soumenos" "Spanogregores" "Spanopoulos""Stachytzes" "Stemnitziotes"
+			"Strephnes" "Stypeiotes" "Styppes" "Synacheris" "Syros" "Taronites" "Tatikes" "Tetragonites" "Theodorokanos" 
+			"Theodosiopolites" "Thrakesios" "Thylakas" "Tilapos" "Timonites" "Tourmarchopoulos" "Traphines" "Trellos" 
+			"Triakontaphyllos" "Triblattites" "Trichinopodes" "Triphyllios" "Tzanzes" "Tzefres" "Tzetas" "Tzipoureles" 
+			"Tzirithon" "Tzoulas" "Tzoumenes" "Tzouroulles" "Tzympenos" "Vatatzes" "Xanthos" "Xenos" "Xeros" "Xiphias" 
+			"Xiphilinos" "Xylinites" "Zabareiotes" "Zagarommates" "Zerbos" "Zomes" "Zonaras" "Kalomalas" "Kaloudes" 
+			"Kampanarios" "Kamytzes" "Kallierges" "Loukites" "Kometopoulos" "Basiliakos" 
+			"Pateranos" "von Winterthur" "Paleologo" "Gregoras" "Sanudo" "Komytzes" "Lascaris" "Kyrdiniatis" "Agapetos" 
+			"Attikos" "Anastasiotis" "Evergetidiotis" "Chliarinos" "Chysovergis" "Eugeniotis" "Vorradiotis" "Mountanis" 
+			"Theotokitis" "Viticlenou" "Autoreianos" "Akoimitos" "Charitopoulos" "Panemorphiotis" "Hyakinthiotis" 
+			"Galesiotis" "Bekkos" "Kyprios" "Gonitis" "Pammakaristiotis" "Perivleptiotis" "Manganiotis" "Kalekas" 
+			"Herakleidon" "Xylaloes" "Syrikos" "Tatikios" "Aspietes" "Kastenianos" "Leovachos" "Maniatis" "Vaklikas" 
+			"Maurikios" "Skrinarios" "Mesanaktis" "Lachanodrakon" "Kalokyris" "Lykodontis" "Skyllaris" "Ampelas" 
+			"Gerontas" "Apokapis" "Pallikarios" "Orphanotrophos" "Chlorokokis" "Hexavoulis" "Martinakios" "Agelastos" 
+			"Kotzes" "Toxaras" "Aplakes" "Gomostos" "Koupharas" "Tyropoulis" "Kontomytes" "Chenopoulos" "Sellokalas" 
+			"Kentrokoukouros" "Antigonos" "Pastillas" "Katakalitzes" "Manikophagos" "Kolokynthis" "Rachites" "Bua Spatas" 
+			"Apsimaros" "Artemios"
+		}
+	}
+
+
+
+
 }
 
 caucasian = {
@@ -3385,81 +3539,10 @@ alan = {
 	}
 }
 
-turko_semitic = { #Levantine
+turko_semitic = { #Arabic
 	graphical_culture = muslimgfx
 	
-	turkish = {
-		primary = TUR
-		dynasty_names = {
-			"Osmanoglu" "Karamanoglu" "Menteseoglu" "Ramazanoglu" "Saruhanoglu"
-			"Dulkadiroglu" "Candaroglu" "Germiyanoglu" "Aydinoglu" "Eretnaoglu"
-			"Artukoglu" "Mutahhartenoglu" "Tekeoglu" "Hamidoglu" "Tacettinoglu"
-			"Oguzoglu" "Haciemiroglu" "Kubatoglu" "Bafraoglu" "Alaiyeoglu"
-		}
-		male_names = {
-			Mehmet Mustafa Murat Ahmet Selim Osman Mahmut Süleyman Bayezid Orhan Abdulaziz Abdülhamit Ibrahim 
-			Abdülmecit Abdullah Cem Cihangir Alaattin Isa Musa Ömer Seyfettin Yakup Yusuf Giyasettin Numan 
-			Ali Davut Hasan Hüseyin Ishak Kamer Kasim Korkut Emin Iskender Halil Sait Hamit Ertugrul Izzettin 
-			Nizamettin Sinan Ferhat Salih Ismail Cüneyt Bahadir Hizir Harun Cemal Inal Celalettin Ilyas 
-			Dursun Ramazan Recep Abdulrahman Hayrettin
-			Çagri Çaka Afsin Ahmet Aksonqor Alaeddin Ali Alkan "Alp Arslan" "Alp Yurek" Alptigin Artuk Ayaz 
-			Aydin Aydogan Aydogdu Aytekin Böru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars 
-			Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cuneyd Dundar Danismend Davud David 
-			Demir Dogan Dogukan Dukak Erdem Ertan Ertekin Ertugrul Gunduz Hasan Hasan Hizir Ibrahim Ilgazi 
-			Inal Iskender Alexander Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun 
-			Kemal Kiliç Korkut Kutalmis Kutay Kutlug Mursel Mahmud Mehmed Meliksah Mengucek Mesud Murad 
-			Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan Söbuk Sökmen Sönmez Suleyman Saim Saltuk 
-			Saruca Savtekin Savur Sehinsah Selçuk Selim Sencer Sinan Tanrivermis Tekin Timurtas Togay 
-			Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus Uluç Umur Yakut Yaman Yinal 
-			Yunus
-		}
-		female_names = {
-			Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bahar Banu 
-			Bozçin Canan Ceylan Dunya Dilber Dilek Emine Esin Fatma Firuze Gulçiçek Gulay Gulbahar Gulfem 
-			Gulsum Gumus Gunduz Gundes Gunes Hatice Hayat Huriye Ilkay Ilknur Ipek Ipekel Irge Karacik Lale 
-			Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica 
-			Sati Sehnaz Serap Serife Sevilay Sevindik Sibel Sibylla Sirin Sirma Songul Sumru Tekçe Tura 
-			Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal Hatice Safiye Zeynep Hürrem Mihrimah Nurbanu 
-			Handan Alime Kösem Hüma 
-		}
-	}
-	al_misr_arabic = { #Egyptian Arab
-		primary = MAM
-		dynasty_names = {
-			"Burji" "Alawiyya" "Bahri"
-			Katkhuda Abaza Qasimiyya Qitas al-Qazdughli Yakubid Hassanid
-		}
-		male_names = {
-			Muhammad Ahmad Qânsawh Tûmân Bay Inâl Khusqadam 'Abd al-'Aziz al-Musta'in al-Nasr Faraj Barsbay 
-			Qâyit Bay Shaik al-Mahmudi Timurbughâ 'Uthman Yalbay Jânbulât Yûsuf Barqûq 'Alî Baybars Hâjjî 
-			Bakr al-Hasan Isma'îl Kûjûk Sâlih 'Abd al-Malik Basir Fadl Ghayth Hatim Ilyas Jabir Nadim Nizar 
-			Sayyid Yunus Jaqmaq Qasim Sa'di Sha'bân Abû 
-		}
-		female_names = {
-			Shahira Yusra Asma Abda Ahu Aiza Aliyah Butayna Daniyah Dima Fahra Fahriya Fatima Gamila Ghada Habiba Huda Ibtisam 
-			Isra Karima Kera Khadija Layla Maha Malika Mariam Maria Munya Munia Nadia Naila Nur Rafiqa Rahat 
-			Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
-		}
-	}
-	al_suryah_arabic = { #Syrian Arab
-		primary = SYR
-		dynasty_names = {
-			"Mirdasid" "Maanid" "al-Shihab"  Yakubid Hassanid
-			Katkhuda Abaza Qasimiyya Qitas al-Qazdughli 
-		}
-		male_names = {
-			al-Nasr al-Mu'azzam al-Salih al-'Adil al-Kamil al-Ashraf al-Afdal Tadj Mujir ud-Din Djamal ud-Din 
-			ud-Din Shams Saif 'Abbas 'Abd al-Rahman Anwar Atuf Bakr Fahd Hakim Harun Hikmat Hisham Husayn 
-			Jamaal Karim Malîk Mirza Muhammad Rashîd Rusul Shimun Tarîq Usama Yasir Yusuf Zaid Zîyad Isma'il 	
-			Jafar Shihab
-		}
-		female_names = {
-			Ihsan Marwa Aisha Aziza Duha Farida Golbahar Gulnar Gulnaz Gulpari Hafsa Hasti Huma Ibtisam Jalila Kamala 
-			Karima Khandan Khaterah Khatira Kinah Lala Madiha Mahdokht Nazy Neelab Negar Niki Nikoo Noushin Rabiya
-			Mahsa Mahwash Marwa Mastana Mehri Mina Minoo Munawwar Muzhdah Nahal Najela Nasiba Nastaran Nazaneen 
-			Rajiya Sadiya Salma Sitara Thana Zahra Zahra Zuhayra
-		}
-	}
+	
 	al_iraqiya_arabic = { #Mashriqi Arab
 		primary = IRQ
 		dynasty_names = {

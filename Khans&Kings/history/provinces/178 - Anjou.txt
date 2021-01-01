@@ -3,7 +3,7 @@
 owner = ORL
 controller = ORL
 add_core = ORL
-culture = gaulish
+culture = cosmopolitan_french
 capital = "Angers"
 is_city = yes
 religion = catholic

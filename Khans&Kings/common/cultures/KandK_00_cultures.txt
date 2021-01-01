@@ -11,54 +11,54 @@ south_germanic = {
 	graphical_culture = westerngfx
 
 	male_names = {  }
-	
-	
+
+
 
 	suebi = {
 		primary = GAL
 		male_names = {
-			Boguslaw Barnim Ota Eryk Filip Franciszek Jan Fryderyk Georg Ernest 
-			Ludwik Albrecht Arnt August Bernhard Bodo Carl Emil Fritz Gerhard 
-			Gustav Harald Hendryk Herbert Hermann Jochem Maximiliam Reinhold 
-			Siegfried Walter Wilhelm Alexander Andrzej Antoni Antoninus Aron 
-			Bartosz Bartolomeus Bedrich 
-			Frederick Bezprzym Blazej Blaise Bogislaw Bohdan Bogdan Bohumir Boleslaw Boleslav 
+			Boguslaw Barnim Ota Eryk Filip Franciszek Jan Fryderyk Georg Ernest
+			Ludwik Albrecht Arnt August Bernhard Bodo Carl Emil Fritz Gerhard
+			Gustav Harald Hendryk Herbert Hermann Jochem Maximiliam Reinhold
+			Siegfried Walter Wilhelm Alexander Andrzej Antoni Antoninus Aron
+			Bartosz Bartolomeus Bedrich
+			Frederick Bezprzym Blazej Blaise Bogislaw Bohdan Bogdan Bohumir Boleslaw Boleslav
 			Boriwoj Borijov Bozydar Theodat Branimir Branislav
-			Bretislav Bretislaus Casimir Ctibor Ctibor Dobieslaw Dobromil Drosuk Dytryk Thierry Frantisek 
-			Francis Gawel Grzegorz Gregory Havel Gallus Jacenty Hyacinth Jakub Jakusz Jacob 
+			Bretislav Bretislaus Casimir Ctibor Ctibor Dobieslaw Dobromil Drosuk Dytryk Thierry Frantisek
+			Francis Gawel Grzegorz Gregory Havel Gallus Jacenty Hyacinth Jakub Jakusz Jacob
 			Janusz John Jaromar
-			Jaromil Jaromir Jaroslav Jedrzej Jindrich Henry Jirí George Jozef Joseph 
-			Juliusz Julian Kajetan Kamil Camillus Karel Charles Kasper Kazimierz Kliment Clement Kolman 
+			Jaromil Jaromir Jaroslav Jedrzej Jindrich Henry Jirï¿½ George Jozef Joseph
+			Juliusz Julian Kajetan Kamil Camillus Karel Charles Kasper Kazimierz Kliment Clement Kolman
 			Koloman Kornel Cornelius Kresimir Krzeslaw
-			Krzysztof Christopher Lech Leszek Lubomir Lucjan Lucius Ludvik Louis Marek Marcus Marian Marius 
-			Martin Mateusz Matthew Mieszko Mikolás Nicholas Miloslaw Milosz Miroslaw 
+			Krzysztof Christopher Lech Leszek Lubomir Lucjan Lucius Ludvik Louis Marek Marcus Marian Marius
+			Martin Mateusz Matthew Mieszko Mikolï¿½s Nicholas Miloslaw Milosz Miroslaw
 			Mscislaw Mstislav Msciwoj
-			Oldrich Ulrich Ondrej Andrew Otokar Patryk Patrick Pawel Paul Piotr Peter Prendota Przemysl 
-			Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard Richard Sambor Sobieslav Sobeslaus 
+			Oldrich Ulrich Ondrej Andrew Otokar Patryk Patrick Pawel Paul Piotr Peter Prendota Przemysl
+			Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard Richard Sambor Sobieslav Sobeslaus
 			Stanislaw
-			Strasz Swietopelk Svatopluk Swietoslaw Sviatoslav Szczepan Stephen Szczesny Szymon Tadeusz 
-			Theodore Tomasz Thomas Udalrich Urjasz Vojtech Albert Waclaw Walenty Valentin Wratislaw 
+			Strasz Swietopelk Svatopluk Swietoslaw Sviatoslav Szczepan Stephen Szczesny Szymon Tadeusz
+			Theodore Tomasz Thomas Udalrich Urjasz Vojtech Albert Waclaw Walenty Valentin Wratislaw
 			Vratislav Wawrzyniec Laurence Wenceslaw Vaclav
-			Wincenty Vincent Wizlaw Wladyslaw Wlodek Wlodzimierz Wlodzislaw Wratislaw 
+			Wincenty Vincent Wizlaw Wladyslaw Wlodek Wlodzimierz Wlodzislaw Wratislaw
 			Zbigniew Zbynek Zdenek Zdislav Zygmunt Sigmund
 		}
 		female_names = {
 			Gabriela Helena Janina
-			Agnieszka Agnes Alzbeta Andela Anna Berta Bohuslava Bozena Branislava Dagmar Danuta Dobravy 
+			Agnieszka Agnes Alzbeta Andela Anna Berta Bohuslava Bozena Branislava Dagmar Danuta Dobravy
 			Dobroniega Dorota Dorothy Dragomira Edyta Ewa Geira Gertruda Gertrude
-			Gracja Grazyna Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Judith Kamila 
+			Gracja Grazyna Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Judith Kamila
 			Katarina Catherine Kenna Kornelia Krystyna Christina Ksenia Lidia
-			Ludmila Magda Magdalena Magdalena Magdalena Malgorzata Marcelina Maria Markéta Martyna 
-			Mateja Matylda Matilda Milena Miroslava Pechna Róza Radomila Radomira Radoslava
-			Raina Regelinda Rycheza Salomea Smiechna Stanislava Stefana Stephania Svetlana Urszula Václava 
+			Ludmila Magda Magdalena Magdalena Magdalena Malgorzata Marcelina Maria Markï¿½ta Martyna
+			Mateja Matylda Matilda Milena Miroslava Pechna Rï¿½za Radomila Radomira Radoslava
+			Raina Regelinda Rycheza Salomea Smiechna Stanislava Stefana Stephania Svetlana Urszula Vï¿½clava
 			Vladislava Wera Wojslawa Zdenka Zofia Zwinislawa
 		}
 		dynasty_names = {
 			"von Klinckow" "von Puttkamer" "von Barnekow" "von Strantz" "Gryf" "Wizlawid"
 			"von Krassow" "von der Lancken" "von Schlieffen" "von Schwerin"
-			"von Schöning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
+			"von Schï¿½ning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
 			"von Buggenhagen" "von Manteuffel" "von Corswant" "von Stralenheim" "von Dewitz" "von Preen" "von Podewils"
-			"von Flemming" "von Platen" "von Neuenkirchen" "von Gottberg" "von Hackewitz" "von Hennigs" "Trampe" "von Hertzberg" "von Heyden" "von Kameke" "von Kleist" "Natzmer" 
+			"von Flemming" "von Platen" "von Neuenkirchen" "von Gottberg" "von Hackewitz" "von Hennigs" "Trampe" "von Hertzberg" "von Heyden" "von Kameke" "von Kleist" "Natzmer"
 			"von Zepelin" "von Gostowski" "von Wakenitz"
 			"von Usedom" "Thun" "von Thadden"
 			#CKII
@@ -70,48 +70,48 @@ south_germanic = {
 	vandal = {
 		primary = VAN
 		male_names = {
-			Boguslaw Barnim Ota Eryk Filip Franciszek Jan Fryderyk Georg Ernest 
-			Ludwik Albrecht Arnt August Bernhard Bodo Carl Emil Fritz Gerhard 
-			Gustav Harald Hendryk Herbert Hermann Jochem Maximiliam Reinhold 
-			Siegfried Walter Wilhelm Alexander Andrzej Antoni Antoninus Aron 
-			Bartosz Bartolomeus Bedrich 
-			Frederick Bezprzym Blazej Blaise Bogislaw Bohdan Bogdan Bohumir Boleslaw Boleslav 
+			Boguslaw Barnim Ota Eryk Filip Franciszek Jan Fryderyk Georg Ernest
+			Ludwik Albrecht Arnt August Bernhard Bodo Carl Emil Fritz Gerhard
+			Gustav Harald Hendryk Herbert Hermann Jochem Maximiliam Reinhold
+			Siegfried Walter Wilhelm Alexander Andrzej Antoni Antoninus Aron
+			Bartosz Bartolomeus Bedrich
+			Frederick Bezprzym Blazej Blaise Bogislaw Bohdan Bogdan Bohumir Boleslaw Boleslav
 			Boriwoj Borijov Bozydar Theodat Branimir Branislav
-			Bretislav Bretislaus Casimir Ctibor Ctibor Dobieslaw Dobromil Drosuk Dytryk Thierry Frantisek 
-			Francis Gawel Grzegorz Gregory Havel Gallus Jacenty Hyacinth Jakub Jakusz Jacob 
+			Bretislav Bretislaus Casimir Ctibor Ctibor Dobieslaw Dobromil Drosuk Dytryk Thierry Frantisek
+			Francis Gawel Grzegorz Gregory Havel Gallus Jacenty Hyacinth Jakub Jakusz Jacob
 			Janusz John Jaromar
-			Jaromil Jaromir Jaroslav Jedrzej Jindrich Henry Jirí George Jozef Joseph 
-			Juliusz Julian Kajetan Kamil Camillus Karel Charles Kasper Kazimierz Kliment Clement Kolman 
+			Jaromil Jaromir Jaroslav Jedrzej Jindrich Henry Jirï¿½ George Jozef Joseph
+			Juliusz Julian Kajetan Kamil Camillus Karel Charles Kasper Kazimierz Kliment Clement Kolman
 			Koloman Kornel Cornelius Kresimir Krzeslaw
-			Krzysztof Christopher Lech Leszek Lubomir Lucjan Lucius Ludvik Louis Marek Marcus Marian Marius 
-			Martin Mateusz Matthew Mieszko Mikolás Nicholas Miloslaw Milosz Miroslaw 
+			Krzysztof Christopher Lech Leszek Lubomir Lucjan Lucius Ludvik Louis Marek Marcus Marian Marius
+			Martin Mateusz Matthew Mieszko Mikolï¿½s Nicholas Miloslaw Milosz Miroslaw
 			Mscislaw Mstislav Msciwoj
-			Oldrich Ulrich Ondrej Andrew Otokar Patryk Patrick Pawel Paul Piotr Peter Prendota Przemysl 
-			Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard Richard Sambor Sobieslav Sobeslaus 
+			Oldrich Ulrich Ondrej Andrew Otokar Patryk Patrick Pawel Paul Piotr Peter Prendota Przemysl
+			Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard Richard Sambor Sobieslav Sobeslaus
 			Stanislaw
-			Strasz Swietopelk Svatopluk Swietoslaw Sviatoslav Szczepan Stephen Szczesny Szymon Tadeusz 
-			Theodore Tomasz Thomas Udalrich Urjasz Vojtech Albert Waclaw Walenty Valentin Wratislaw 
+			Strasz Swietopelk Svatopluk Swietoslaw Sviatoslav Szczepan Stephen Szczesny Szymon Tadeusz
+			Theodore Tomasz Thomas Udalrich Urjasz Vojtech Albert Waclaw Walenty Valentin Wratislaw
 			Vratislav Wawrzyniec Laurence Wenceslaw Vaclav
-			Wincenty Vincent Wizlaw Wladyslaw Wlodek Wlodzimierz Wlodzislaw Wratislaw 
+			Wincenty Vincent Wizlaw Wladyslaw Wlodek Wlodzimierz Wlodzislaw Wratislaw
 			Zbigniew Zbynek Zdenek Zdislav Zygmunt Sigmund
 		}
 		female_names = {
 			Gabriela Helena Janina
-			Agnieszka Agnes Alzbeta Andela Anna Berta Bohuslava Bozena Branislava Dagmar Danuta Dobravy 
+			Agnieszka Agnes Alzbeta Andela Anna Berta Bohuslava Bozena Branislava Dagmar Danuta Dobravy
 			Dobroniega Dorota Dorothy Dragomira Edyta Ewa Geira Gertruda Gertrude
-			Gracja Grazyna Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Judith Kamila 
+			Gracja Grazyna Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Judith Kamila
 			Katarina Catherine Kenna Kornelia Krystyna Christina Ksenia Lidia
-			Ludmila Magda Magdalena Magdalena Magdalena Malgorzata Marcelina Maria Markéta Martyna 
-			Mateja Matylda Matilda Milena Miroslava Pechna Róza Radomila Radomira Radoslava
-			Raina Regelinda Rycheza Salomea Smiechna Stanislava Stefana Stephania Svetlana Urszula Václava 
+			Ludmila Magda Magdalena Magdalena Magdalena Malgorzata Marcelina Maria Markï¿½ta Martyna
+			Mateja Matylda Matilda Milena Miroslava Pechna Rï¿½za Radomila Radomira Radoslava
+			Raina Regelinda Rycheza Salomea Smiechna Stanislava Stefana Stephania Svetlana Urszula Vï¿½clava
 			Vladislava Wera Wojslawa Zdenka Zofia Zwinislawa
 		}
 		dynasty_names = {
 			"von Klinckow" "von Puttkamer" "von Barnekow" "von Strantz" "Gryf" "Wizlawid"
 			"von Krassow" "von der Lancken" "von Schlieffen" "von Schwerin"
-			"von Schöning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
+			"von Schï¿½ning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
 			"von Buggenhagen" "von Manteuffel" "von Corswant" "von Stralenheim" "von Dewitz" "von Preen" "von Podewils"
-			"von Flemming" "von Platen" "von Neuenkirchen" "von Gottberg" "von Hackewitz" "von Hennigs" "Trampe" "von Hertzberg" "von Heyden" "von Kameke" "von Kleist" "Natzmer" 
+			"von Flemming" "von Platen" "von Neuenkirchen" "von Gottberg" "von Hackewitz" "von Hennigs" "Trampe" "von Hertzberg" "von Heyden" "von Kameke" "von Kleist" "Natzmer"
 			"von Zepelin" "von Gostowski" "von Wakenitz"
 			"von Usedom" "Thun" "von Thadden"
 			#CKII
@@ -123,48 +123,48 @@ south_germanic = {
 	visigothic = {
 		primary = VIS
 		male_names = {
-			Boguslaw Barnim Ota Eryk Filip Franciszek Jan Fryderyk Georg Ernest 
-			Ludwik Albrecht Arnt August Bernhard Bodo Carl Emil Fritz Gerhard 
-			Gustav Harald Hendryk Herbert Hermann Jochem Maximiliam Reinhold 
-			Siegfried Walter Wilhelm Alexander Andrzej Antoni Antoninus Aron 
-			Bartosz Bartolomeus Bedrich 
-			Frederick Bezprzym Blazej Blaise Bogislaw Bohdan Bogdan Bohumir Boleslaw Boleslav 
+			Boguslaw Barnim Ota Eryk Filip Franciszek Jan Fryderyk Georg Ernest
+			Ludwik Albrecht Arnt August Bernhard Bodo Carl Emil Fritz Gerhard
+			Gustav Harald Hendryk Herbert Hermann Jochem Maximiliam Reinhold
+			Siegfried Walter Wilhelm Alexander Andrzej Antoni Antoninus Aron
+			Bartosz Bartolomeus Bedrich
+			Frederick Bezprzym Blazej Blaise Bogislaw Bohdan Bogdan Bohumir Boleslaw Boleslav
 			Boriwoj Borijov Bozydar Theodat Branimir Branislav
-			Bretislav Bretislaus Casimir Ctibor Ctibor Dobieslaw Dobromil Drosuk Dytryk Thierry Frantisek 
-			Francis Gawel Grzegorz Gregory Havel Gallus Jacenty Hyacinth Jakub Jakusz Jacob 
+			Bretislav Bretislaus Casimir Ctibor Ctibor Dobieslaw Dobromil Drosuk Dytryk Thierry Frantisek
+			Francis Gawel Grzegorz Gregory Havel Gallus Jacenty Hyacinth Jakub Jakusz Jacob
 			Janusz John Jaromar
-			Jaromil Jaromir Jaroslav Jedrzej Jindrich Henry Jirí George Jozef Joseph 
-			Juliusz Julian Kajetan Kamil Camillus Karel Charles Kasper Kazimierz Kliment Clement Kolman 
+			Jaromil Jaromir Jaroslav Jedrzej Jindrich Henry Jirï¿½ George Jozef Joseph
+			Juliusz Julian Kajetan Kamil Camillus Karel Charles Kasper Kazimierz Kliment Clement Kolman
 			Koloman Kornel Cornelius Kresimir Krzeslaw
-			Krzysztof Christopher Lech Leszek Lubomir Lucjan Lucius Ludvik Louis Marek Marcus Marian Marius 
-			Martin Mateusz Matthew Mieszko Mikolás Nicholas Miloslaw Milosz Miroslaw 
+			Krzysztof Christopher Lech Leszek Lubomir Lucjan Lucius Ludvik Louis Marek Marcus Marian Marius
+			Martin Mateusz Matthew Mieszko Mikolï¿½s Nicholas Miloslaw Milosz Miroslaw
 			Mscislaw Mstislav Msciwoj
-			Oldrich Ulrich Ondrej Andrew Otokar Patryk Patrick Pawel Paul Piotr Peter Prendota Przemysl 
-			Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard Richard Sambor Sobieslav Sobeslaus 
+			Oldrich Ulrich Ondrej Andrew Otokar Patryk Patrick Pawel Paul Piotr Peter Prendota Przemysl
+			Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard Richard Sambor Sobieslav Sobeslaus
 			Stanislaw
-			Strasz Swietopelk Svatopluk Swietoslaw Sviatoslav Szczepan Stephen Szczesny Szymon Tadeusz 
-			Theodore Tomasz Thomas Udalrich Urjasz Vojtech Albert Waclaw Walenty Valentin Wratislaw 
+			Strasz Swietopelk Svatopluk Swietoslaw Sviatoslav Szczepan Stephen Szczesny Szymon Tadeusz
+			Theodore Tomasz Thomas Udalrich Urjasz Vojtech Albert Waclaw Walenty Valentin Wratislaw
 			Vratislav Wawrzyniec Laurence Wenceslaw Vaclav
-			Wincenty Vincent Wizlaw Wladyslaw Wlodek Wlodzimierz Wlodzislaw Wratislaw 
+			Wincenty Vincent Wizlaw Wladyslaw Wlodek Wlodzimierz Wlodzislaw Wratislaw
 			Zbigniew Zbynek Zdenek Zdislav Zygmunt Sigmund
 		}
 		female_names = {
 			Gabriela Helena Janina
-			Agnieszka Agnes Alzbeta Andela Anna Berta Bohuslava Bozena Branislava Dagmar Danuta Dobravy 
+			Agnieszka Agnes Alzbeta Andela Anna Berta Bohuslava Bozena Branislava Dagmar Danuta Dobravy
 			Dobroniega Dorota Dorothy Dragomira Edyta Ewa Geira Gertruda Gertrude
-			Gracja Grazyna Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Judith Kamila 
+			Gracja Grazyna Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Judith Kamila
 			Katarina Catherine Kenna Kornelia Krystyna Christina Ksenia Lidia
-			Ludmila Magda Magdalena Magdalena Magdalena Malgorzata Marcelina Maria Markéta Martyna 
-			Mateja Matylda Matilda Milena Miroslava Pechna Róza Radomila Radomira Radoslava
-			Raina Regelinda Rycheza Salomea Smiechna Stanislava Stefana Stephania Svetlana Urszula Václava 
+			Ludmila Magda Magdalena Magdalena Magdalena Malgorzata Marcelina Maria Markï¿½ta Martyna
+			Mateja Matylda Matilda Milena Miroslava Pechna Rï¿½za Radomila Radomira Radoslava
+			Raina Regelinda Rycheza Salomea Smiechna Stanislava Stefana Stephania Svetlana Urszula Vï¿½clava
 			Vladislava Wera Wojslawa Zdenka Zofia Zwinislawa
 		}
 		dynasty_names = {
 			"von Klinckow" "von Puttkamer" "von Barnekow" "von Strantz" "Gryf" "Wizlawid"
 			"von Krassow" "von der Lancken" "von Schlieffen" "von Schwerin"
-			"von Schöning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
+			"von Schï¿½ning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
 			"von Buggenhagen" "von Manteuffel" "von Corswant" "von Stralenheim" "von Dewitz" "von Preen" "von Podewils"
-			"von Flemming" "von Platen" "von Neuenkirchen" "von Gottberg" "von Hackewitz" "von Hennigs" "Trampe" "von Hertzberg" "von Heyden" "von Kameke" "von Kleist" "Natzmer" 
+			"von Flemming" "von Platen" "von Neuenkirchen" "von Gottberg" "von Hackewitz" "von Hennigs" "Trampe" "von Hertzberg" "von Heyden" "von Kameke" "von Kleist" "Natzmer"
 			"von Zepelin" "von Gostowski" "von Wakenitz"
 			"von Usedom" "Thun" "von Thadden"
 			#CKII
@@ -177,8 +177,8 @@ south_germanic = {
 
 celtiberian	= {
 	graphical_culture = westerngfx
-	
-	
+
+
 }
 
 hispano-roman	= {
@@ -187,60 +187,60 @@ hispano-roman	= {
 	baetican = {
 		primary = BAE
 		dynasty_names = {
-			"de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
-			Téllez-Girón "Manrique de Lara" "de Ávalos" Enríquez "Osuna" "Argavieso" Ruspoli "Lasso de la Vega" "de Hoyos" Zayas "de Alcalá"
+			"de Trastï¿½mara" "de Guzmï¿½n" "ï¿½lvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
+			Tï¿½llez-Girï¿½n "Manrique de Lara" "de ï¿½valos" Enrï¿½quez "Osuna" "Argavieso" Ruspoli "Lasso de la Vega" "de Hoyos" Zayas "de Alcalï¿½"
 			#CK2
-			"de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"  
+			"de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"
 			"de Medinaceli" "de Castro" "de Haro" "Santcliment" "de Altamira" Osorio
-			Zúñiga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
+			Zï¿½ï¿½iga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
 		}
 		male_names = {
-			Enrique Fernando Juan Felipe Alfonso Carlos Sancho Ramiro Pedro Alonso Álvaro Baltasar 
-			Bernardo Bertrán Hernando
-			Cristobal Diego Domingo Esteban Fadrique Francisco García Gómez Gonzalo Gutierre Hermenegildo 
-			Ignacio Laín Lope Miguel Nuño Odón Ramón Rodrigo Tomás Valeriano
-			Alfonso Alphonse Alonso Alphonse Álvar Oliver Álvaro Oliver Bermudo Vermudo Diego Diaco 
-			Henry Fadrique Frederick Felipe Philip Fernando Ferdinand Fruela Froila García Garcia Gil 
-			Egidius Gómez Gomez Gonzalo Gonzalo Guillén William Guillermo William Gutierre Walter Juan 
-			Lope Lupo Luis Louis Manrique Amalric Martín Martin Munio Munio Nuño Nuno Ordoño Ordono 
-			Obeko Pedro Peter Pelayo Pelagius Ramiro Ramiro Rodrigo Roderick Salvador Sancho Sancho 
+			Enrique Fernando Juan Felipe Alfonso Carlos Sancho Ramiro Pedro Alonso ï¿½lvaro Baltasar
+			Bernardo Bertrï¿½n Hernando
+			Cristobal Diego Domingo Esteban Fadrique Francisco Garcï¿½a Gï¿½mez Gonzalo Gutierre Hermenegildo
+			Ignacio Laï¿½n Lope Miguel Nuï¿½o Odï¿½n Ramï¿½n Rodrigo Tomï¿½s Valeriano
+			Alfonso Alphonse Alonso Alphonse ï¿½lvar Oliver ï¿½lvaro Oliver Bermudo Vermudo Diego Diaco
+			Henry Fadrique Frederick Felipe Philip Fernando Ferdinand Fruela Froila Garcï¿½a Garcia Gil
+			Egidius Gï¿½mez Gomez Gonzalo Gonzalo Guillï¿½n William Guillermo William Gutierre Walter Juan
+			Lope Lupo Luis Louis Manrique Amalric Martï¿½n Martin Munio Munio Nuï¿½o Nuno Ordoï¿½o Ordono
+			Obeko Pedro Peter Pelayo Pelagius Ramiro Ramiro Rodrigo Roderick Salvador Sancho Sancho
 			Suero Tello Vela Vela Suero Oveco John Enrique
 		}
 		female_names = {
-			Aldonza Aldonza Anderquina Beatriz Beatrice Berenguela Berengaria Blanca Blanche Constanza 
-			Constance Elvira Elvira Estefanía Stephania Fronilda Fronilde Gontroda Gotruda Inés Agnes 
-			Elisabeth Jimena Ximena Juana Joan Leonor Eleanor Mafalda Matilda María Maria Marina Marine 
-			Mayor Mayor Mencía Mencia Milia Emily Sancha Sancha Teresa Teresa Toda Toda Urraca Urraca
+			Aldonza Aldonza Anderquina Beatriz Beatrice Berenguela Berengaria Blanca Blanche Constanza
+			Constance Elvira Elvira Estefanï¿½a Stephania Fronilda Fronilde Gontroda Gotruda Inï¿½s Agnes
+			Elisabeth Jimena Ximena Juana Joan Leonor Eleanor Mafalda Matilda Marï¿½a Maria Marina Marine
+			Mayor Mayor Mencï¿½a Mencia Milia Emily Sancha Sancha Teresa Teresa Toda Toda Urraca Urraca
 			Isabel
 		}
 	}
 	lusitanian = {
 		primary = LUS
 		dynasty_names = {
-			"de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
-			Téllez-Girón "Manrique de Lara" "de Ávalos" Enríquez "Osuna" "Argavieso" Ruspoli "Lasso de la Vega" "de Hoyos" Zayas "de Alcalá"
+			"de Trastï¿½mara" "de Guzmï¿½n" "ï¿½lvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
+			Tï¿½llez-Girï¿½n "Manrique de Lara" "de ï¿½valos" Enrï¿½quez "Osuna" "Argavieso" Ruspoli "Lasso de la Vega" "de Hoyos" Zayas "de Alcalï¿½"
 			#CK2
-			"de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"  
+			"de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"
 			"de Medinaceli" "de Castro" "de Haro" "Santcliment" "de Altamira" Osorio
-			Zúñiga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
+			Zï¿½ï¿½iga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
 		}
 		male_names = {
-			Enrique Fernando Juan Felipe Alfonso Carlos Sancho Ramiro Pedro Alonso Álvaro Baltasar 
-			Bernardo Bertrán Hernando
-			Cristobal Diego Domingo Esteban Fadrique Francisco García Gómez Gonzalo Gutierre Hermenegildo 
-			Ignacio Laín Lope Miguel Nuño Odón Ramón Rodrigo Tomás Valeriano
-			Alfonso Alphonse Alonso Alphonse Álvar Oliver Álvaro Oliver Bermudo Vermudo Diego Diaco 
-			Henry Fadrique Frederick Felipe Philip Fernando Ferdinand Fruela Froila García Garcia Gil 
-			Egidius Gómez Gomez Gonzalo Gonzalo Guillén William Guillermo William Gutierre Walter Juan 
-			Lope Lupo Luis Louis Manrique Amalric Martín Martin Munio Munio Nuño Nuno Ordoño Ordono 
-			Obeko Pedro Peter Pelayo Pelagius Ramiro Ramiro Rodrigo Roderick Salvador Sancho Sancho 
+			Enrique Fernando Juan Felipe Alfonso Carlos Sancho Ramiro Pedro Alonso ï¿½lvaro Baltasar
+			Bernardo Bertrï¿½n Hernando
+			Cristobal Diego Domingo Esteban Fadrique Francisco Garcï¿½a Gï¿½mez Gonzalo Gutierre Hermenegildo
+			Ignacio Laï¿½n Lope Miguel Nuï¿½o Odï¿½n Ramï¿½n Rodrigo Tomï¿½s Valeriano
+			Alfonso Alphonse Alonso Alphonse ï¿½lvar Oliver ï¿½lvaro Oliver Bermudo Vermudo Diego Diaco
+			Henry Fadrique Frederick Felipe Philip Fernando Ferdinand Fruela Froila Garcï¿½a Garcia Gil
+			Egidius Gï¿½mez Gomez Gonzalo Gonzalo Guillï¿½n William Guillermo William Gutierre Walter Juan
+			Lope Lupo Luis Louis Manrique Amalric Martï¿½n Martin Munio Munio Nuï¿½o Nuno Ordoï¿½o Ordono
+			Obeko Pedro Peter Pelayo Pelagius Ramiro Ramiro Rodrigo Roderick Salvador Sancho Sancho
 			Suero Tello Vela Vela Suero Oveco John Enrique
 		}
 		female_names = {
-			Aldonza Aldonza Anderquina Beatriz Beatrice Berenguela Berengaria Blanca Blanche Constanza 
-			Constance Elvira Elvira Estefanía Stephania Fronilda Fronilde Gontroda Gotruda Inés Agnes 
-			Elisabeth Jimena Ximena Juana Joan Leonor Eleanor Mafalda Matilda María Maria Marina Marine 
-			Mayor Mayor Mencía Mencia Milia Emily Sancha Sancha Teresa Teresa Toda Toda Urraca Urraca
+			Aldonza Aldonza Anderquina Beatriz Beatrice Berenguela Berengaria Blanca Blanche Constanza
+			Constance Elvira Elvira Estefanï¿½a Stephania Fronilda Fronilde Gontroda Gotruda Inï¿½s Agnes
+			Elisabeth Jimena Ximena Juana Joan Leonor Eleanor Mafalda Matilda Marï¿½a Maria Marina Marine
+			Mayor Mayor Mencï¿½a Mencia Milia Emily Sancha Sancha Teresa Teresa Toda Toda Urraca Urraca
 			Isabel
 		}
 	}
@@ -256,131 +256,131 @@ occitain = {
 		primary = AQT
 
 dynasty_names = {
-		"de Valois" "de Bourbon" "de la Tour" "d'Anjou" 
+		"de Valois" "de Bourbon" "de la Tour" "d'Anjou"
 		"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
 		"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
-		"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
+		"de Castellane" "d'Auvergne" "de Montbï¿½liard" "de Metz"
 		#CKII Frankish
-		"de Laval" "de la Tour du Pin" "de La Trémoille" "de Créquy" "de Broglie"
+		"de Laval" "de la Tour du Pin" "de La Trï¿½moille" "de Crï¿½quy" "de Broglie"
 		"de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
 		"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
-		"de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont"
+		"de Barrau" "de La Fayette" "d'Armagnac" "de Rougï¿½" "du Quenoy" "de Ficquelmont"
 		"de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"
-		"de Vaudemont" "de Nicolaÿ"
+		"de Vaudemont" "de Nicolaï¿½"
 	}
 	male_names = {
-		Édouard Érrard Étienne Adémar Adrien Aimery Alain 
-		Aldebert Aldéric Alphonse Amaury Amédée Ancel André Antoine Archambaud Arnaud 
-		Arnault Arnoul Aubry Aymar Barthélémi Baudouin Benoît Bérenger Bernard Bertrand Bohemond 
-		Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 
-		Frédéric Gaucher Gaucelin Gauthier Geoffroi Géraud Gilbert Gilles Godefroi
-		Guichard Guiges Guilhem Guillaume Guy Hélie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
-		Jaufré Jaspert Jean Jourdain Julien Léon Léonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
-		Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiébaut 
+		ï¿½douard ï¿½rrard ï¿½tienne Adï¿½mar Adrien Aimery Alain
+		Aldebert Aldï¿½ric Alphonse Amaury Amï¿½dï¿½e Ancel Andrï¿½ Antoine Archambaud Arnaud
+		Arnault Arnoul Aubry Aymar Barthï¿½lï¿½mi Baudouin Benoï¿½t Bï¿½renger Bernard Bertrand Bohemond
+		Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques Franï¿½ois
+		Frï¿½dï¿½ric Gaucher Gaucelin Gauthier Geoffroi Gï¿½raud Gilbert Gilles Godefroi
+		Guichard Guiges Guilhem Guillaume Guy Hï¿½lie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques
+		Jaufrï¿½ Jaspert Jean Jourdain Julien Lï¿½on Lï¿½onard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
+		Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiï¿½baut
 		Thierry Thomas Valeran Yves
 	}
 	female_names = {
-		Éléonore Élodie Étiennette Adèle Adalmode Adelaide Adelinde 
-		Agnès Aléarde Alice Aliénor Agathe
-		Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde 
-		Béatrice Béatrix Belleassez Benoîte Bérengère
-		Berthe Blanche Bonne Bourgogne Bourguigne Cécile Cathèrine 
+		ï¿½lï¿½onore ï¿½lodie ï¿½tiennette Adï¿½le Adalmode Adelaide Adelinde
+		Agnï¿½s Alï¿½arde Alice Aliï¿½nor Agathe
+		Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde
+		Bï¿½atrice Bï¿½atrix Belleassez Benoï¿½te Bï¿½rengï¿½re
+		Berthe Blanche Bonne Bourgogne Bourguigne Cï¿½cile Cathï¿½rine
 		Charlotte Constance Denise Douce Echive Eglantine
-		Elisabeth Emma Ermengarde Ermessinde Esclarmonde 
-		Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Héloise Helvis Hodierne Ide Ildégarde
+		Elisabeth Emma Ermengarde Ermessinde Esclarmonde
+		Euphrosine Eustachie Eve Gerberge Gisï¿½le Guillaumette Hï¿½loise Helvis Hodierne Ide Ildï¿½garde
 		Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
-		Mascarose Mathilde Mélisande Mélisende Mélusine Péronelle Pernelle Perinne Pernette Plaisance 
-		Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
+		Mascarose Mathilde Mï¿½lisande Mï¿½lisende Mï¿½lusine Pï¿½ronelle Pernelle Perinne Pernette Plaisance
+		Raymonde Sarrazine Solï¿½ne Sophie Stï¿½phanie Sybille Tiburge Valence Yolande
 }
 }
 
 	gascon = {
 		primary = GUY
 dynasty_names = {
-		"de Valois" "de Bourbon" "de la Tour" "d'Anjou" 
+		"de Valois" "de Bourbon" "de la Tour" "d'Anjou"
 		"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
 		"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
-		"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
+		"de Castellane" "d'Auvergne" "de Montbï¿½liard" "de Metz"
 		#CKII Frankish
-		"de Laval" "de la Tour du Pin" "de La Trémoille" "de Créquy" "de Broglie"
+		"de Laval" "de la Tour du Pin" "de La Trï¿½moille" "de Crï¿½quy" "de Broglie"
 		"de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
 		"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
-		"de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont"
+		"de Barrau" "de La Fayette" "d'Armagnac" "de Rougï¿½" "du Quenoy" "de Ficquelmont"
 		"de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"
-		"de Vaudemont" "de Nicolaÿ"
+		"de Vaudemont" "de Nicolaï¿½"
 	}
 	male_names = {
-		Édouard Érrard Étienne Adémar Adrien Aimery Alain 
-		Aldebert Aldéric Alphonse Amaury Amédée Ancel André Antoine Archambaud Arnaud 
-		Arnault Arnoul Aubry Aymar Barthélémi Baudouin Benoît Bérenger Bernard Bertrand Bohemond 
-		Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 
-		Frédéric Gaucher Gaucelin Gauthier Geoffroi Géraud Gilbert Gilles Godefroi
-		Guichard Guiges Guilhem Guillaume Guy Hélie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
-		Jaufré Jaspert Jean Jourdain Julien Léon Léonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
-		Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiébaut 
+		ï¿½douard ï¿½rrard ï¿½tienne Adï¿½mar Adrien Aimery Alain
+		Aldebert Aldï¿½ric Alphonse Amaury Amï¿½dï¿½e Ancel Andrï¿½ Antoine Archambaud Arnaud
+		Arnault Arnoul Aubry Aymar Barthï¿½lï¿½mi Baudouin Benoï¿½t Bï¿½renger Bernard Bertrand Bohemond
+		Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques Franï¿½ois
+		Frï¿½dï¿½ric Gaucher Gaucelin Gauthier Geoffroi Gï¿½raud Gilbert Gilles Godefroi
+		Guichard Guiges Guilhem Guillaume Guy Hï¿½lie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques
+		Jaufrï¿½ Jaspert Jean Jourdain Julien Lï¿½on Lï¿½onard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
+		Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiï¿½baut
 		Thierry Thomas Valeran Yves
 	}
 	female_names = {
-		Éléonore Élodie Étiennette Adèle Adalmode Adelaide Adelinde 
-		Agnès Aléarde Alice Aliénor Agathe
-		Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde 
-		Béatrice Béatrix Belleassez Benoîte Bérengère
-		Berthe Blanche Bonne Bourgogne Bourguigne Cécile Cathèrine 
+		ï¿½lï¿½onore ï¿½lodie ï¿½tiennette Adï¿½le Adalmode Adelaide Adelinde
+		Agnï¿½s Alï¿½arde Alice Aliï¿½nor Agathe
+		Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde
+		Bï¿½atrice Bï¿½atrix Belleassez Benoï¿½te Bï¿½rengï¿½re
+		Berthe Blanche Bonne Bourgogne Bourguigne Cï¿½cile Cathï¿½rine
 		Charlotte Constance Denise Douce Echive Eglantine
-		Elisabeth Emma Ermengarde Ermessinde Esclarmonde 
-		Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Héloise Helvis Hodierne Ide Ildégarde
+		Elisabeth Emma Ermengarde Ermessinde Esclarmonde
+		Euphrosine Eustachie Eve Gerberge Gisï¿½le Guillaumette Hï¿½loise Helvis Hodierne Ide Ildï¿½garde
 		Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
-		Mascarose Mathilde Mélisande Mélisende Mélusine Péronelle Pernelle Perinne Pernette Plaisance 
-		Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
+		Mascarose Mathilde Mï¿½lisande Mï¿½lisende Mï¿½lusine Pï¿½ronelle Pernelle Perinne Pernette Plaisance
+		Raymonde Sarrazine Solï¿½ne Sophie Stï¿½phanie Sybille Tiburge Valence Yolande
 
 	}
 }
 catalan = {
 		primary = CAT
 		dynasty_names = {
-			"d'Aragó" "de Borja" "de Luna" "d'Urgell" "Folc de Cardona"
+			"d'Aragï¿½" "de Borja" "de Luna" "d'Urgell" "Folc de Cardona"
 			#CK2
-			"de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"  
+			"de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"
 			"de Medinaceli" "de Castro" "de Haro" "Santcliment" "de Altamira" Osorio
-			Zúñiga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
+			Zï¿½ï¿½iga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
 			"de Cabrera" "de Villena"
 		}
 		male_names = {
-			Aaró Aaron Abelard Abraham Absaló Abundi Adalbert Adam Adrià Alaric Albà Albí Aleix Àlvar Àngel Antoni Arnau 
-			Artur Blai Carles Cecili Conrad Dari Dionís Emili Enric Felip Ferran Francés Francesc Fructuós Germà 
-			Gonçal Guillem Guiu Ignasi Israel Joan Jordi Josep Josep Maria Lleó Lluc Lluís Macedoni Màrius Martí Miquel 
-			Octavi Òscar Pau Pere Pol Pompeu Pròsper Prudenci Prudencià Quirze Rafael Ramir Raül Reginald Ricard Robert Roc 
-			Rubèn Sergi Simó Teodor Tomàs Vicenç Vicent Xavier
+			Aarï¿½ Aaron Abelard Abraham Absalï¿½ Abundi Adalbert Adam Adriï¿½ Alaric Albï¿½ Albï¿½ Aleix ï¿½lvar ï¿½ngel Antoni Arnau
+			Artur Blai Carles Cecili Conrad Dari Dionï¿½s Emili Enric Felip Ferran Francï¿½s Francesc Fructuï¿½s Germï¿½
+			Gonï¿½al Guillem Guiu Ignasi Israel Joan Jordi Josep Josep Maria Lleï¿½ Lluc Lluï¿½s Macedoni Mï¿½rius Martï¿½ Miquel
+			Octavi ï¿½scar Pau Pere Pol Pompeu Prï¿½sper Prudenci Prudenciï¿½ Quirze Rafael Ramir Raï¿½l Reginald Ricard Robert Roc
+			Rubï¿½n Sergi Simï¿½ Teodor Tomï¿½s Vicenï¿½ Vicent Xavier
 		}
 		female_names = {
-			Àgata Àgueda Aina Anna Antònia Caterina Cecília Cristina Dolors Francesca Genoveva Isabel Joana Justina Laia 
-			Montserrat Núria Octàvia Prudència Roberta Rodolfa
+			ï¿½gata ï¿½gueda Aina Anna Antï¿½nia Caterina Cecï¿½lia Cristina Dolors Francesca Genoveva Isabel Joana Justina Laia
+			Montserrat Nï¿½ria Octï¿½via Prudï¿½ncia Roberta Rodolfa
 		}
 	}
 
 basque = {
 		primary = VAS
 		dynasty_names = {
-			"de Navarra" "de Beaumont" "de Lerín" "de Monteagudo" Escors 
+			"de Navarra" "de Beaumont" "de Lerï¿½n" "de Monteagudo" Escors
 			# CKII
 			"de Haro"
 		}
 		male_names = {
-			Enrique Carlos Francisco Juan Luis Gastón Pedro Buenaventura Francisco Godofredo Jaime Lanzarote 
-			Martín Sancho García Felipe Teobaldo Alfonso Agustín Alejandro Álvaro Andrés Antonio Bernardo César 
-			Cristóbal Diego Esteban Fernando Gaspar José Melchor Nicolás Simón Leonel
-			Alfontso Alphonse Alvar Oliver Antso Sancho Aznar Aznar Belasko Vasco Bermudo Vermudo 
-			Bernard Diego Diaco Donato Donatus Egidio Egidius Eneko Inigo Erramun Raymond Fernando 
-			Fortun Galindo Galindo Gartzia Garcia Gilen William Gontzal Gonzalo Herramel Joanes John 
-			Lope Lupo Luis Louis Manrike Amalric Martín Martin Munio Munio Nuño Nuno Obeko Obeko Ordoño 
-			Ordono Pelaio Pelagius Piarres Peter Ramiro Ramiro Rodrigo Roderick Vela Vela Ximeno Simon 
+			Enrique Carlos Francisco Juan Luis Gastï¿½n Pedro Buenaventura Francisco Godofredo Jaime Lanzarote
+			Martï¿½n Sancho Garcï¿½a Felipe Teobaldo Alfonso Agustï¿½n Alejandro ï¿½lvaro Andrï¿½s Antonio Bernardo Cï¿½sar
+			Cristï¿½bal Diego Esteban Fernando Gaspar Josï¿½ Melchor Nicolï¿½s Simï¿½n Leonel
+			Alfontso Alphonse Alvar Oliver Antso Sancho Aznar Aznar Belasko Vasco Bermudo Vermudo
+			Bernard Diego Diaco Donato Donatus Egidio Egidius Eneko Inigo Erramun Raymond Fernando
+			Fortun Galindo Galindo Gartzia Garcia Gilen William Gontzal Gonzalo Herramel Joanes John
+			Lope Lupo Luis Louis Manrike Amalric Martï¿½n Martin Munio Munio Nuï¿½o Nuno Obeko Obeko Ordoï¿½o
+			Ordono Pelaio Pelagius Piarres Peter Ramiro Ramiro Rodrigo Roderick Vela Vela Ximeno Simon
 			Zentulo Centule Ladron Ferdinand Bernart
 		}
 		female_names = {
 			Juana Catalina Leonor Blanca
-			Aines Agnes Aldontza Aldonza Andregoto Antsa Sancha Belaskita Berengaria Berengaria Blanka 
-			Blanche Elbira Elvira Eliza Emili Emily Estefania Stephania Joana Joan Konstantzia Constance 
-			Maior Mayor Maria Maria Mentzia Mencia Munia Munia Nuña Oneka Oneka Oria Plazentzia 
+			Aines Agnes Aldontza Aldonza Andregoto Antsa Sancha Belaskita Berengaria Berengaria Blanka
+			Blanche Elbira Elvira Eliza Emili Emily Estefania Stephania Joana Joan Konstantzia Constance
+			Maior Mayor Maria Maria Mentzia Mencia Munia Munia Nuï¿½a Oneka Oneka Oria Plazentzia
 			Teresa Teresa Toda Toda Urraka Urraca Ximena Ximena Plaisance
 		}
 	}
@@ -392,23 +392,23 @@ tartar	= {
 
 	faketurkish = {
 		dynasty_names = {
-			"Ulagan Temur" "Bora Chinua" "Suren Unegen" "Qara Erdene" 
-			"Delger Cheren" Chaganchar Qorchigene Burilgidai Qadantai 
+			"Ulagan Temur" "Bora Chinua" "Suren Unegen" "Qara Erdene"
+			"Delger Cheren" Chaganchar Qorchigene Burilgidai Qadantai
 			Temurcher Tegus-chi Berkegene Yekechar Batu-tu
 		}
 		male_names = {
-			"Abbas" "Agish" "Alchagir" "Arslanay" "Baki" "Baltichak" "Batir" "Din Ahmad" "Din Muhammad" "Din Sufi" 
-			"Dinbay" "Divey" "Edigu" "Ghazi" "Haji Ahmad" "Haji Muhammad" "Hasan" "Ishterek" "Isiney" "Ismail" 
-			"Jan Qubad" "Kanay" "Khorezmi" "Kuchuk" "Mansur" "Muhammad" "Musa" "Qasim" "Sayid Ahmad" "Shay Tarak" 
+			"Abbas" "Agish" "Alchagir" "Arslanay" "Baki" "Baltichak" "Batir" "Din Ahmad" "Din Muhammad" "Din Sufi"
+			"Dinbay" "Divey" "Edigu" "Ghazi" "Haji Ahmad" "Haji Muhammad" "Hasan" "Ishterek" "Isiney" "Ismail"
+			"Jan Qubad" "Kanay" "Khorezmi" "Kuchuk" "Mansur" "Muhammad" "Musa" "Qasim" "Sayid Ahmad" "Shay Tarak"
 			"Sheykh Mamay" "Timur" "Uraz Muhammad" "Urus" "Vakkas" "Yamghurchi" "Yash Tarak" "Yusuf"
 		}
 		female_names = {
-			Aaliyah Ikram Aamina Aamira Aaqila Aarifa Aazzi Adelah Adela Adiba Adilah Adilia Adiva Adjan Aeesha "Fatima" 
-			"Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith Alia Amunet 
+			Aaliyah Ikram Aamina Aamira Aaqila Aarifa Aazzi Adelah Adela Adiba Adilah Adilia Adiva Adjan Aeesha "Fatima"
+			"Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith Alia Amunet
 			Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
-	
+
 }
 
 
@@ -420,17 +420,17 @@ kuzeyliler_group	= {
 	crimean = {
 		primary = CRI
 		dynasty_names = {
-			Altan Asanin Bekmambet Ziyaeddin Sarigöl Bektöre Celebicihan  Cobanzade Dägci Gaspirali Giraybay Hablemitoglu Hilmi 
-			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan 
-			Fazil Uralgiray Kosay Agah Mangitli Tögay Kemal
+			Altan Asanin Bekmambet Ziyaeddin Sarigï¿½l Bektï¿½re Celebicihan  Cobanzade Dï¿½gci Gaspirali Giraybay Hablemitoglu Hilmi
+			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan
+			Fazil Uralgiray Kosay Agah Mangitli Tï¿½gay Kemal
 		}
 		male_names = {
-			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek 
-			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin 
+			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek
+			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin
 			Shardan Selamet Selim Toqtamish
 		}
 		female_names = {
-			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla 
+			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla
 			Sakina Sharifa Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -438,17 +438,17 @@ kuzeyliler_group	= {
 khazar = {
 		primary = KZA
 		dynasty_names = {
-			Altan Asanin Bekmambet Ziyaeddin Sarigöl Bektöre Celebicihan  Cobanzade Dägci Gaspirali Giraybay Hablemitoglu Hilmi 
-			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan 
-			Fazil Uralgiray Kosay Agah Mangitli Tögay Kemal
+			Altan Asanin Bekmambet Ziyaeddin Sarigï¿½l Bektï¿½re Celebicihan  Cobanzade Dï¿½gci Gaspirali Giraybay Hablemitoglu Hilmi
+			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan
+			Fazil Uralgiray Kosay Agah Mangitli Tï¿½gay Kemal
 		}
 		male_names = {
-			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek 
-			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin 
+			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek
+			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin
 			Shardan Selamet Selim Toqtamish
 		}
 		female_names = {
-			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla 
+			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla
 			Sakina Sharifa Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -456,17 +456,17 @@ khazar = {
 pecheneg = {
 		primary = PCH
 		dynasty_names = {
-			Altan Asanin Bekmambet Ziyaeddin Sarigöl Bektöre Celebicihan  Cobanzade Dägci Gaspirali Giraybay Hablemitoglu Hilmi 
-			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan 
-			Fazil Uralgiray Kosay Agah Mangitli Tögay Kemal
+			Altan Asanin Bekmambet Ziyaeddin Sarigï¿½l Bektï¿½re Celebicihan  Cobanzade Dï¿½gci Gaspirali Giraybay Hablemitoglu Hilmi
+			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan
+			Fazil Uralgiray Kosay Agah Mangitli Tï¿½gay Kemal
 		}
 		male_names = {
-			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek 
-			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin 
+			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek
+			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin
 			Shardan Selamet Selim Toqtamish
 		}
 		female_names = {
-			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla 
+			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla
 			Sakina Sharifa Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -474,37 +474,37 @@ pecheneg = {
 hunnic = {
 		primary = HNS
 		dynasty_names = {
-			Altan Asanin Bekmambet Ziyaeddin Sarigöl Bektöre Celebicihan  Cobanzade Dägci Gaspirali Giraybay Hablemitoglu Hilmi 
-			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan 
-			Fazil Uralgiray Kosay Agah Mangitli Tögay Kemal
+			Altan Asanin Bekmambet Ziyaeddin Sarigï¿½l Bektï¿½re Celebicihan  Cobanzade Dï¿½gci Gaspirali Giraybay Hablemitoglu Hilmi
+			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan
+			Fazil Uralgiray Kosay Agah Mangitli Tï¿½gay Kemal
 		}
 		male_names = {
-			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek 
-			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin 
+			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek
+			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin
 			Shardan Selamet Selim Toqtamish
 		}
 		female_names = {
-			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla 
+			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla
 			Sakina Sharifa Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
-	
+
 	nogaybak = {
 		primary = NOG
 		dynasty_names = {
-			"Ulagan Temur" "Bora Chinua" "Suren Unegen" "Qara Erdene" 
-			"Delger Cheren" Chaganchar Qorchigene Burilgidai Qadantai 
+			"Ulagan Temur" "Bora Chinua" "Suren Unegen" "Qara Erdene"
+			"Delger Cheren" Chaganchar Qorchigene Burilgidai Qadantai
 			Temurcher Tegus-chi Berkegene Yekechar Batu-tu
 		}
 		male_names = {
-			"Abbas" "Agish" "Alchagir" "Arslanay" "Baki" "Baltichak" "Batir" "Din Ahmad" "Din Muhammad" "Din Sufi" 
-			"Dinbay" "Divey" "Edigu" "Ghazi" "Haji Ahmad" "Haji Muhammad" "Hasan" "Ishterek" "Isiney" "Ismail" 
-			"Jan Qubad" "Kanay" "Khorezmi" "Kuchuk" "Mansur" "Muhammad" "Musa" "Qasim" "Sayid Ahmad" "Shay Tarak" 
+			"Abbas" "Agish" "Alchagir" "Arslanay" "Baki" "Baltichak" "Batir" "Din Ahmad" "Din Muhammad" "Din Sufi"
+			"Dinbay" "Divey" "Edigu" "Ghazi" "Haji Ahmad" "Haji Muhammad" "Hasan" "Ishterek" "Isiney" "Ismail"
+			"Jan Qubad" "Kanay" "Khorezmi" "Kuchuk" "Mansur" "Muhammad" "Musa" "Qasim" "Sayid Ahmad" "Shay Tarak"
 			"Sheykh Mamay" "Timur" "Uraz Muhammad" "Urus" "Vakkas" "Yamghurchi" "Yash Tarak" "Yusuf"
 		}
 		female_names = {
-			Aaliyah Ikram Aamina Aamira Aaqila Aarifa Aazzi Adelah Adela Adiba Adilah Adilia Adiva Adjan Aeesha "Fatima" 
-			"Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith Alia Amunet 
+			Aaliyah Ikram Aamina Aamira Aaqila Aarifa Aazzi Adelah Adela Adiba Adilah Adilia Adiva Adjan Aeesha "Fatima"
+			"Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith Alia Amunet
 			Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -513,17 +513,17 @@ hunnic = {
 cuman = {
 		primary = CUM
 		dynasty_names = {
-			Altan Asanin Bekmambet Ziyaeddin Sarigöl Bektöre Celebicihan  Cobanzade Dägci Gaspirali Giraybay Hablemitoglu Hilmi 
-			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan 
-			Fazil Uralgiray Kosay Agah Mangitli Tögay Kemal
+			Altan Asanin Bekmambet Ziyaeddin Sarigï¿½l Bektï¿½re Celebicihan  Cobanzade Dï¿½gci Gaspirali Giraybay Hablemitoglu Hilmi
+			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan
+			Fazil Uralgiray Kosay Agah Mangitli Tï¿½gay Kemal
 		}
 		male_names = {
-			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek 
-			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin 
+			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek
+			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin
 			Shardan Selamet Selim Toqtamish
 		}
 		female_names = {
-			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla 
+			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla
 			Sakina Sharifa Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -531,17 +531,17 @@ cuman = {
 kipchak = {
 		primary = KIP
 		dynasty_names = {
-			Altan Asanin Bekmambet Ziyaeddin Sarigöl Bektöre Celebicihan  Cobanzade Dägci Gaspirali Giraybay Hablemitoglu Hilmi 
-			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan 
-			Fazil Uralgiray Kosay Agah Mangitli Tögay Kemal
+			Altan Asanin Bekmambet Ziyaeddin Sarigï¿½l Bektï¿½re Celebicihan  Cobanzade Dï¿½gci Gaspirali Giraybay Hablemitoglu Hilmi
+			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan
+			Fazil Uralgiray Kosay Agah Mangitli Tï¿½gay Kemal
 		}
 		male_names = {
-			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek 
-			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin 
+			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek
+			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin
 			Shardan Selamet Selim Toqtamish
 		}
 		female_names = {
-			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla 
+			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla
 			Sakina Sharifa Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -549,17 +549,17 @@ kipchak = {
 bolghar = {
 		primary = BGH
 		dynasty_names = {
-			Altan Asanin Bekmambet Ziyaeddin Sarigöl Bektöre Celebicihan  Cobanzade Dägci Gaspirali Giraybay Hablemitoglu Hilmi 
-			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan 
-			Fazil Uralgiray Kosay Agah Mangitli Tögay Kemal
+			Altan Asanin Bekmambet Ziyaeddin Sarigï¿½l Bektï¿½re Celebicihan  Cobanzade Dï¿½gci Gaspirali Giraybay Hablemitoglu Hilmi
+			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan
+			Fazil Uralgiray Kosay Agah Mangitli Tï¿½gay Kemal
 		}
 		male_names = {
-			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek 
-			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin 
+			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek
+			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin
 			Shardan Selamet Selim Toqtamish
 		}
 		female_names = {
-			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla 
+			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla
 			Sakina Sharifa Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -570,16 +570,16 @@ bashkir = {
 			Balna Salmiianov Ravna Taiborey Vylka Kanin Maimbava Arinin Aven Tsoy
 		}
 		male_names = {
-			"Abdul-Karim" "Abdul-Latif" "Abdul-Rahman" "Abdullah" "Agalak" "Ahmad" "Ak Köbek" "Ali Beg" "Arab Shah" 
-			"Arslan" "Baraq" "Bek Bulat" "Bolaq" "Cherkes" "Chokra" "Daniyal" "Darwish" "Darwish Ali" "Devlet Berdi" 
-			"Edigu" "Hajji Muhammad" "Husayn" "Ibak" "Ibrahim" "Ilham" "Ishim" "Jabbar Berdi" "Jalal al-Din" "Jan Ali" 
-			"Janay" "Jani Beg" "Jumaduq" "Karim Berdi" "Kebek" "Khalil" "Khaqan Beg" "Küchük Muhammad" "Kuchum" 
-			"Mahmud" "Mahmudak" "Mamai" "Mamuk" "Mansur" "Muhammad" "Murtaza" "Mustafa Ali" "Nogai" "Pulad" "Pulad Timur" "Qadir Berdi" "Qasim" "Sain Bulat" "Satilghan" "Sayid Ahmad" "Sayid Burhan" "Sayid Mahmud" 
-			"Shadi Beg" "Shah Ali" "Shaikh Ahmad" "Shaikh Awliar" "Shaikh Haidar" "Shiban" "Taibugha" "Timur" 
+			"Abdul-Karim" "Abdul-Latif" "Abdul-Rahman" "Abdullah" "Agalak" "Ahmad" "Ak Kï¿½bek" "Ali Beg" "Arab Shah"
+			"Arslan" "Baraq" "Bek Bulat" "Bolaq" "Cherkes" "Chokra" "Daniyal" "Darwish" "Darwish Ali" "Devlet Berdi"
+			"Edigu" "Hajji Muhammad" "Husayn" "Ibak" "Ibrahim" "Ilham" "Ishim" "Jabbar Berdi" "Jalal al-Din" "Jan Ali"
+			"Janay" "Jani Beg" "Jumaduq" "Karim Berdi" "Kebek" "Khalil" "Khaqan Beg" "Kï¿½chï¿½k Muhammad" "Kuchum"
+			"Mahmud" "Mahmudak" "Mamai" "Mamuk" "Mansur" "Muhammad" "Murtaza" "Mustafa Ali" "Nogai" "Pulad" "Pulad Timur" "Qadir Berdi" "Qasim" "Sain Bulat" "Satilghan" "Sayid Ahmad" "Sayid Burhan" "Sayid Mahmud"
+			"Shadi Beg" "Shah Ali" "Shaikh Ahmad" "Shaikh Awliar" "Shaikh Haidar" "Shiban" "Taibugha" "Timur"
 			"Timur Qutlugh" "Toqtamish" "Ulugh Muhammad" "Urus" "Urus Muhammad" "Yadigar Muhammad" "Yamghurchi"
 		}
 		female_names = {
-			"Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith 
+			"Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith
 			Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -587,20 +587,160 @@ bashkir = {
 oghuz = {
 		primary = OGH
 		dynasty_names = {
-			Altan Asanin Bekmambet Ziyaeddin Sarigöl Bektöre Celebicihan  Cobanzade Dägci Gaspirali Giraybay Hablemitoglu Hilmi 
-			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan 
-			Fazil Uralgiray Kosay Agah Mangitli Tögay Kemal
+			Altan Asanin Bekmambet Ziyaeddin Sarigï¿½l Bektï¿½re Celebicihan  Cobanzade Dï¿½gci Gaspirali Giraybay Hablemitoglu Hilmi
+			Inalcik Ipci Kirimal Seydahmet Ihsan Kubay Qirimoglu Mamut Mansiz Mehdi Neyazi Ortayli Semizade Soysal Zihni Tarhan
+			Fazil Uralgiray Kosay Agah Mangitli Tï¿½gay Kemal
 		}
 		male_names = {
-			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek 
-			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin 
+			Alp Arslan Adil Amin Bahadir Devlet Fetih Ghazi Haji Halim Haspulad Hayder Inayet Islam Janay Janibek
+			Maqsud Mehmed Mengli Mubarek Murad Nur Devlet Otemesh Qaplan Qirim Saadet Safa Sahib Satilghan Shahin
 			Shardan Selamet Selim Toqtamish
 		}
 		female_names = {
-			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla 
+			Khalida Mariam Sabah "Fatima" "Ibtisam" "Jalila" "Janan" "Layla" "Sakina" "Sharifa" Ibtisam Jalila Janan Layla
 			Sakina Sharifa Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
 
+
+}
+levantine_group	= {
+	graphical_culture = muslimgfx
+
+	egyptian = {
+		primary = EGY
+
+		dynasty_names = { Thinis Memphis Abydos Herakleopolis Thebes Itjtawy Avaris Bubastis Sais }
+	}
+
+		male_names = {
+		Abanoub
+Abraam
+Awel
+Adam
+Aleksanaros
+Androus
+Antonious
+Aron
+Ashraf
+Wasile
+Beniamin
+Bishoi
+Boutros
+Chael
+Khristophoros
+Danyal
+Dau?id
+Evanderos
+Ezra
+Gabriyal
+Girgis
+Hanri
+Ilyas
+Isaac
+Iosef
+Istafanus
+Jerjer
+Khail
+Kosma
+Krystafer
+Ksystous
+Lot
+Lukianous
+Lukious
+Maurikious
+Matta
+Mikail
+Mikhael
+Mina
+Myronous
+Pamin
+Roubos
+Sarabion
+Tadros
+Tawadros
+Touma
+Yakobas
+Yared
+Yeshak
+Youssef
+Zaia
+		}
+		female_names = {
+			Anastasia
+Anna
+Demiana
+Diana
+Elpis
+Eva
+Hanna
+Herebekka
+Hrakhel
+Elisabet
+Kattrin
+Khroustina
+Lea
+Leksandria
+Loukia
+Mariam
+Marina
+Marta
+Maysoon
+Paisi
+Piama
+Piamun
+Potamina
+Roufina
+Samia
+Sappeira
+Sara
+Sofia
+Talida
+Virina
+		}
+	}
+
+assyrian = {
+		primary = EGY
+		dynasty_names = { Ahmadi Algafari Assadi Homsi Nasser }
+	}
+
+male_names = {
+Ashur  George  Gewargis  Hano  Samano  Naramsin  Ramsin  Sargon  Sargis  Ninos  Ramin  Dawid  Benyamin  Banipal  Shmuel  Zaya  Orahim Avrahim Oraha  Shimun  Elia  Abgar  Addai Aday  Apram Aphrem  Bardaisan  Hunain  Yukhanna  Yonan  Younan  Yatrin  Yoel  Petros Patrus  Gabriel  Yacob Yaqub  Eshaya  Nimrud  Daniel  Yousip  Dinkha  Eshai Ishai  Moushe  Thoma  Tulmay  Yahballaha  Dadisho Dadishu  Narsai  Ishoyahb  Aho  Isho  Sharbel  Sharo  Sabrisho Sabrishu  Belo  Eliya  Shalim  Bilgamish  Hammurabi  Sinharib Sennacherib  Ninsun  Adam  Ashurdan  Ninev Nineb  Sada  Shima  Ezekiel  Atur  Goru  Patu  Beniel  Matti  Mari  Hedo Haydoo  Odisho Odishu  Eshu Esho  Ilishu and Shalita
+		}
+		female_names = {
+Nineveh Ninva  Dinah Deena  Layah  Martha  Arbella  Sharukina  Nuhadra  Nouhra  Nahrain  Waleeta  Semiramis Shamiram Shamiran  Ishtar  Nina  Ninurta  Sarah  Siduri  Suriya  Ninlil  Atour  Aramina Ramina  Ashourina  Khammi  Mona  Mariam  Esmar  Helena  Bartilla  Bakhdida  Deeana  Larsa  Sona  Surma  Khannah  Khava  Fabronia  Glima  Lilitu Lilith  Talitha  Samantha and Arbilina
+		}
+	}
+
+aramean = {
+		primary = EGY
+		dynasty_names = { Zakkur Ihruleni Hezion Tabrimmon Hadadezer Hazael Rezin Kapara }
+	}
+
+male_names = {
+Abba Abdes Abgar Abgarus Acar Addai Ahiqar Aqiba Avira Barabbas Barsoum Boanerges Eashoa Ghiwarghis Ieshau Kepha Maccabee Marqos Mirhbandaq Nisroch Nohra Qardagh Quriaqos Sahdona Samyaza SheÃ­la Thaddai Yachouh Tohanan Yohannan
+		}
+		female_names = {
+Asilah Bat-Zabbai Bruria Idra Xiamara Yachouh Yolitha Anina Chasina Idra Marfa Maroona Martella Marth Marthine Nureen Nura Raziah Raziella Shera Sheralle Tabbi Taleetha Thada Thomasca Tommye
+		}
+	}
+
+punic = { 
+
+                # primary = EGY
+		dynasty_names = {
+			Abbarid Adonibaalid Ahiromid Baalhannid Baalid Barcid Bostarid Chelbesid Eshbaalid Eugorid Hannid Hiramid Magoid Mattanid Metallid 
+		Milkiramid Philosirid
+		}
+		male_names = {
+			Abbar Abdmelqart Adonibaal Agbal Ahirom Azimilik Baal Baalhanno Bodashtart Bodmelqart Bomilcar Bostar Boulomenus Carthalo Chelbes 
+			Eshbaal Eugoras Germelqart Hamilcar Hannibal Hanno Hasdrubal Himilco Hiram Mago Maharbal Mattan Metallo Milkherem Milkiram 
+			Paltibaal Philosir
+		}
+		female_names = {
+			Abdosir Arishat Astarte Batnoam Dido Shayna Sophonisba Tamar
+		}
+	}
 
 }

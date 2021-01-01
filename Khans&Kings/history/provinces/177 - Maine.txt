@@ -3,8 +3,8 @@
 owner = ORL
 controller = ORL
 add_core = ORL
-add_core = BRI
-culture = gaulish
+add_core = AMO
+culture = cosmopolitan_french
 capital = "Le Mans"
 is_city = yes
 religion = catholic

@@ -54,3 +54,6 @@ KZA = countries/Khazaria.txt
 BGH = countries/Bolghars.txt
 CUM = countries/Cumania.txt
 OGH = countries/Oghuz.txt
+
+#Modded Italy
+SRC = countries/Syracuse.txt

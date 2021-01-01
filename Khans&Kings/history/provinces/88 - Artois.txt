@@ -1,7 +1,8 @@
 # 88 Artois - Principal cities: Arras, Saint-Omer & Lille
 
-owner = NRM
-controller = NRM
+owner = FLA
+controller = FLA
+add_core = FLA
 add_core = NRM
 capital = "Arras"
 is_city = yes

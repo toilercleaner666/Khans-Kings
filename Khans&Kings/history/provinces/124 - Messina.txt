@@ -3,7 +3,8 @@
 owner = VAN
 controller = VAN
 add_core = VAN
-culture = sicilian 
+add_core = SRC
+culture = griko
 religion = catholic 
 hre = no 
 base_tax = 6 
@@ -13,7 +14,6 @@ base_manpower = 5
 fort_15th = yes #Numerous forts, Castello Maniace and Castello di Milazzo being the prominent.
 capital = "Messina"
 is_city = yes 
-add_core = SIC
 
 
 
