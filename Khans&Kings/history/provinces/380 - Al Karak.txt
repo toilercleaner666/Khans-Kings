@@ -1,17 +1,17 @@
 #380 - Al Karak
 
-owner = MAM
-controller = MAM
+owner = MOB
+controller = MOB
+add_core = MOB
 culture = aramean
-religion = zoroastrian
-capital = "Al Karak"
+religion = orthodox
+capital = "Dibon"
 trade_goods = grain
 hre = no
-base_tax = 1 
-base_production = 1
+base_tax = 2
+base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = MAM
 fort_15th = yes
 discovered_by = muslim
 discovered_by = ottoman

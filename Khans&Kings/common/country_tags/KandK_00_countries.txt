@@ -57,3 +57,9 @@ OGH = countries/Oghuz.txt
 
 #Modded Italy
 SRC = countries/Syracuse.txt
+
+#Modded Levant
+HMA = countries/Hamath.txt
+DMA = countries/Damascus.txt
+MOB = countries/Moab.txt
+AMM = countries/Ammon.txt

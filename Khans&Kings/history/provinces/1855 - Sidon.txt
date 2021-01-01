@@ -1,10 +1,10 @@
 #1855 - Sidon
 
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = DMA
+controller = DMA
+add_core = DMA
 culture = aramean
-religion = zoroastrian
+religion = orthodox
 capital = "Sayda"
 trade_goods = naval_supplies
 hre = no

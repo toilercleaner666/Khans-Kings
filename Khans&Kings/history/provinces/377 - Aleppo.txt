@@ -3,6 +3,7 @@
 owner = ARM
 controller = ARM
 add_core = ARM
+add_core = HMA
 culture = aramean
 religion = orthodox
 capital = "Halab"

@@ -1,9 +1,10 @@
 #405 - Tadmor
 
-owner = FAD
-controller = FAD
+owner = HMA
+controller = HMA
+add_core = HMA
 culture = aramean
-religion = zoroastrian
+religion = orthodox
 capital = "Tadmuriyah"
 trade_goods = livestock
 hre = no
@@ -11,8 +12,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = FAD
-add_core = SYR
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

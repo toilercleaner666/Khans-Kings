@@ -1,7 +1,8 @@
 #407 - Ar-Raqqah
 
-owner = MAM
-controller = MAM
+owner = HMA
+controller = HMA
+add_core = HMA
 culture = aramean
 religion = orthodox
 capital = "Ar Rakkah"
@@ -11,7 +12,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = SYR
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman
