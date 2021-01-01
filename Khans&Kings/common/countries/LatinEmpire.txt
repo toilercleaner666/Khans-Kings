@@ -36,6 +36,13 @@ historical_units = {
 	ottoman_lancer
 }
 
+monarch_names = {
+	"Baudouin #7" = 50
+	"Arnulf #2" = 10
+	"Robert #1" = 40
+	
+	
+}
 
 
 leader_names = {
@@ -68,3 +75,5 @@ army_names = {
 fleet_names = {
 	"Escadre de $PROVINCE$"
 }
+
+

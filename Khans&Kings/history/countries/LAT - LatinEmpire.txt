@@ -1,5 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
+government_rank = 3
 primary_culture = cosmopolitan_french
 add_accepted_culture = bulgarian
 add_accepted_culture = greek
@@ -27,12 +28,12 @@ change_estate_land_share = {
 
 1422.10.22 = {
 	monarch = {
-		name = "Charles VII"
-		dynasty = "de Valois"
+		name = "Baudouin VIII"
+		dynasty = "van Vlaanderen"
 		birth_date = 1403.2.22
-		adm = 4
+		adm = 2
 		dip = 2
-		mil = 4
+		mil = 5
 	}
 	queen = {
         country_of_origin = PRO
@@ -49,15 +50,15 @@ change_estate_land_share = {
 
 1423.7.3 = {
 	heir = {
-		name = "Louis"
-		monarch_name = "Louis XI"
-		dynasty = "de Valois"
+		name = "Baudouin"
+		monarch_name = "Baudouin IX"
+		dynasty = "van Vlaanderen"
 		birth_date = 1423.7.3
 		death_date = 1483.8.30
 		claim = 95
 		adm = 4
 		dip = 3
-		mil = 2
+		mil = 3
 	}
 	clear_scripted_personalities = yes
 	add_heir_personality = intricate_web_weaver_personality
