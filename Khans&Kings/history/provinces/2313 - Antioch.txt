@@ -3,7 +3,7 @@
 owner = ARM
 controller = ARM
 add_core = ARM
-culture = al_suryah_arabic
+culture = aramean
 religion = orthodox
 capital = "Antakya"
 trade_goods = cloth

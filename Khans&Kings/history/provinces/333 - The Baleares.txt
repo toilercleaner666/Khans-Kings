@@ -3,7 +3,7 @@
 owner = MJO
 controller = MJO
 add_core = MJO
-culture = catalan
+culture = punic
 religion = catholic
 hre = no
 base_tax = 2 

@@ -1,10 +1,11 @@
 #126 - Malta
 
-owner = TUN
-controller = TUN
-add_core = TUN
-culture = vandal
-religion = zoroastrian 
+owner = VEN
+controller = VEN
+add_core = VEN
+add_core = VAN
+culture = punic
+religion = catholic
 hre = no 
 base_tax = 3 
 base_production = 3

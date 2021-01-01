@@ -2,8 +2,8 @@
 
 owner = MAM
 controller = MAM
-culture = bedouin_arabic
-religion = sunni
+culture = aramean
+religion = zoroastrian
 capital = "Al Karak"
 trade_goods = grain
 hre = no
@@ -22,12 +22,3 @@ discovered_by = indian
 discovered_by = east_african
 
 
-1516.8.24 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-} # Part of the Ottoman Empire
-1665.1.1 = { unrest = 4 }
-1669.1.1 = { unrest = 2 } # Ottoman attempts to pacify unruly tribes 
-1670.1.1 = { unrest = 0 }
-1750.1.1 = { add_core = SYR }
