@@ -34,5 +34,6 @@
  griko:0 "Griko"
  egyptian:0 "Egyptian"
  assyrian:0 "Assyrian"
- aramean:o "Aramean"
+ aramean:0 "Aramean"
  punic:0 "Punic"
+ levantine_group:0 "Levantine"

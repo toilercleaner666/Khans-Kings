@@ -3,7 +3,7 @@
 owner = EGY
 controller = EGY
 add_core = EGY
-culture = al_misr_arabic
+culture = aramean
 religion = zoroastrian
 capital = "Nablus"
 trade_goods = sugar

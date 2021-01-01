@@ -3,7 +3,7 @@
 owner = EGY
 controller = EGY
 add_core = EGY
-culture = al_misr_arabic
+culture = egyptian
 religion = zoroastrian
 capital = "Al Iskandirya"
 trade_goods = spices

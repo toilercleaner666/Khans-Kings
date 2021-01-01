@@ -611,7 +611,7 @@ levantine_group	= {
 		primary = EGY
 
 		dynasty_names = { Thinis Memphis Abydos Herakleopolis Thebes Itjtawy Avaris Bubastis Sais }
-	}
+	
 
 		male_names = {
 		Abanoub
@@ -630,7 +630,6 @@ Boutros
 Chael
 Khristophoros
 Danyal
-Dau?id
 Evanderos
 Ezra
 Gabriyal
@@ -703,7 +702,7 @@ Virina
 assyrian = {
 		primary = EGY
 		dynasty_names = { Ahmadi Algafari Assadi Homsi Nasser }
-	}
+	
 
 male_names = {
 Ashur  George  Gewargis  Hano  Samano  Naramsin  Ramsin  Sargon  Sargis  Ninos  Ramin  Dawid  Benyamin  Banipal  Shmuel  Zaya  Orahim Avrahim Oraha  Shimun  Elia  Abgar  Addai Aday  Apram Aphrem  Bardaisan  Hunain  Yukhanna  Yonan  Younan  Yatrin  Yoel  Petros Patrus  Gabriel  Yacob Yaqub  Eshaya  Nimrud  Daniel  Yousip  Dinkha  Eshai Ishai  Moushe  Thoma  Tulmay  Yahballaha  Dadisho Dadishu  Narsai  Ishoyahb  Aho  Isho  Sharbel  Sharo  Sabrisho Sabrishu  Belo  Eliya  Shalim  Bilgamish  Hammurabi  Sinharib Sennacherib  Ninsun  Adam  Ashurdan  Ninev Nineb  Sada  Shima  Ezekiel  Atur  Goru  Patu  Beniel  Matti  Mari  Hedo Haydoo  Odisho Odishu  Eshu Esho  Ilishu and Shalita
@@ -716,7 +715,7 @@ Nineveh Ninva  Dinah Deena  Layah  Martha  Arbella  Sharukina  Nuhadra  Nouhra  
 aramean = {
 		primary = EGY
 		dynasty_names = { Zakkur Ihruleni Hezion Tabrimmon Hadadezer Hazael Rezin Kapara }
-	}
+	
 
 male_names = {
 Abba Abdes Abgar Abgarus Acar Addai Ahiqar Aqiba Avira Barabbas Barsoum Boanerges Eashoa Ghiwarghis Ieshau Kepha Maccabee Marqos Mirhbandaq Nisroch Nohra Qardagh Quriaqos Sahdona Samyaza Sheíla Thaddai Yachouh Tohanan Yohannan
@@ -742,5 +741,5 @@ punic = {
 			Abdosir Arishat Astarte Batnoam Dido Shayna Sophonisba Tamar
 		}
 	}
-
+}
 }
