@@ -14,17 +14,17 @@ historical_rival = VIS
 
 1422.10.22 = {
 	monarch = {
-		name = "Charles VII"
-		dynasty = "de Valois"
+		name = "Jacques III"
+		dynasty = "de Narbonne"
 		birth_date = 1403.2.22
 		adm = 4
 		dip = 2
-		mil = 4
+		mil = 2
 	}
 	queen = {
-        country_of_origin = PRO
+        country_of_origin = VRD
         name = "Marie"
-        dynasty = "d'Anjou"
+        dynasty = "Karling"
         birth_date = 1404.10.14
         death_date = 1463.11.29
         female = yes
@@ -37,8 +37,8 @@ historical_rival = VIS
 1423.7.3 = {
 	heir = {
 		name = "Louis"
-		monarch_name = "Louis XI"
-		dynasty = "de Valois"
+		monarch_name = "Louis V"
+		dynasty = "de Narbonne"
 		birth_date = 1423.7.3
 		death_date = 1483.8.30
 		claim = 95
@@ -46,11 +46,7 @@ historical_rival = VIS
 		dip = 3
 		mil = 2
 	}
-	clear_scripted_personalities = yes
-	add_heir_personality = intricate_web_weaver_personality
-	add_ruler_personality = inspiring_leader_personality
-	add_ruler_personality = well_advised_personality
-	add_queen_personality = zealot_personality
+
 }
 
 

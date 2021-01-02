@@ -4,3 +4,13 @@ primary_culture = lusitanian
 religion = catholic
 technology_group = western
 capital = 218
+
+1435.9.18 = {
+	monarch = {
+		name = "Oveco"
+		dynasty = "Osane"
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}

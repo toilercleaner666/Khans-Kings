@@ -1,0 +1,49 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = norman
+add_accepted_culture = cornish
+add_accepted_culture = irish
+religion = catholic
+technology_group = western
+capital = 168
+historical_rival = ENG
+
+
+
+
+
+1422.10.22 = {
+	monarch = {
+		name = "William VI"
+		dynasty = "de Normandie"
+		birth_date = 1413.1.27
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	queen = {
+        country_of_origin = NRM
+        name = "Mathilde"
+        dynasty = "FitzGerald"
+        birth_date = 1404.10.14
+        death_date = 1463.11.29
+        female = yes
+        adm = 4
+        dip = 4
+        mil = 4
+    }
+}
+
+1423.7.3 = {
+	heir = {
+		name = "Robert"
+		monarch_name = "Robert IV"
+		dynasty = "de Normandie"
+		birth_date = 1439.12.13
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+
+}

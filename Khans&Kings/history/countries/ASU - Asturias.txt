@@ -4,3 +4,13 @@ primary_culture = astures
 religion = catholic
 technology_group = western
 capital = 207 #Asturias
+
+1435.9.18 = {
+	monarch = {
+		name = "Ailpen II"
+		dynasty = "Cochran"
+		adm = 1
+		dip = 3
+		mil = 6
+	}
+}

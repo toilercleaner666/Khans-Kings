@@ -25,13 +25,12 @@ change_estate_land_share = { #compensates for lack of nobles, distributes 20 bet
 
 1429.11.6 = { #Coronation
 	monarch = {
-		name = "Henry VI"
-		dynasty = "Lancaster"
+		name = "Uther VI"
+		dynasty = "Lanius"
 		birth_date = 1421.12.6
-		adm = 0
-		dip = 0
-		mil = 0
+		adm = 3
+		dip = 2
+		mil = 2
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = infertile_personality
+
 }

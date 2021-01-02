@@ -19,19 +19,19 @@ change_estate_land_share = {
 
 1435.9.18 = {
 	monarch = {
-		name = "'Uthman"
-		dynasty = "Hafsid"
+		name = "Theodoric VI"
+		dynasty = "Balth"
 		adm = 1
 		dip = 3
-		mil = 3
+		mil = 6
 	}
 }
 
 1435.9.18 = {
 	heir = {
-		name = "Yahyâ"
-		monarch_name = "Yahyâ III"
-		dynasty = "Hafsid"
+		name = "Reccared"
+		monarch_name = "Reccared III"
+		dynasty = "Balth"
 		birth_date = 1435.9.18
 		death_date = 1489.1.1
 		claim = 95

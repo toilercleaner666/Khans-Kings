@@ -19,8 +19,8 @@ change_estate_land_share = {
 
 1435.9.18 = {
 	monarch = {
-		name = "'Uthman"
-		dynasty = "Hafsid"
+		name = "Sancho VIII"
+		dynasty = "Íñiguez"
 		adm = 1
 		dip = 3
 		mil = 3
@@ -29,9 +29,9 @@ change_estate_land_share = {
 
 1435.9.18 = {
 	heir = {
-		name = "Yahyâ"
-		monarch_name = "Yahyâ III"
-		dynasty = "Hafsid"
+		name = "Sancho"
+		monarch_name = "Sancho IX"
+		dynasty = "Íñiguez"
 		birth_date = 1435.9.18
 		death_date = 1489.1.1
 		claim = 95

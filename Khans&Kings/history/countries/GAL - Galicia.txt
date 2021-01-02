@@ -4,3 +4,13 @@ primary_culture = suebi
 religion = catholic
 technology_group = western
 capital = 206	# Galicia
+
+1435.9.18 = {
+	monarch = {
+		name = "Ordoño II"
+		dynasty = "Galike"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}

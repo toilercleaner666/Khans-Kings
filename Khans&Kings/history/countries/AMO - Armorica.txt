@@ -6,6 +6,31 @@ technology_group = western
 capital = 172 # Nantais
 
 
+1422.10.22 = {
+	monarch = {
+		name = "Conan III"
+		dynasty = "Nemeton"
+		birth_date = 1399.2.6
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+
+}
+
+1423.7.3 = {
+	heir = {
+		name = "Segemaros"
+		monarch_name = "Segemaros II"
+		dynasty = "Nemeton"
+		birth_date = 1443.3.3
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+
+
 
 
 
