@@ -1,0 +1,23 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = occitain
+religion = catholic
+technology_group = western
+capital = 204
+historical_rival = PRO
+
+
+
+
+
+1422.10.22 = {
+	monarch = {
+		name = "Guigues XI"
+		dynasty = "de la Tour"
+		birth_date = 1413.1.27
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+
+}
