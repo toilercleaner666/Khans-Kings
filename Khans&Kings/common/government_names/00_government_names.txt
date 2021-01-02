@@ -1034,7 +1034,7 @@ french_kingdom = {
 
 	ruler_male = {
 		1 = DUKE
-		2 = FKING
+		2 = KING
 		3 = FEMPEROR
 	}
 
