@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = Welsh
+primary_culture = welsh
 religion = catholic
 technology_group = western
 capital = 242
@@ -13,7 +13,7 @@ historical_rival = ENG
 1422.10.22 = {
 	monarch = {
 		name = "Maredudd III"
-		dynasty = "Owen"
+		dynasty = "Morgannwg"
 		birth_date = 1413.1.27
 		adm = 4
 		dip = 2
