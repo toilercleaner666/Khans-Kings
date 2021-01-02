@@ -1,0 +1,9 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = aramean
+religion = orthodox
+technology_group = eastern
+capital = 382
+
+
+
