@@ -63,3 +63,4 @@ HMA = countries/Hamath.txt
 DMA = countries/Damascus.txt
 MOB = countries/Moab.txt
 AMM = countries/Ammon.txt
+AAM = countries/Aram.txt
