@@ -1,0 +1,14 @@
+government = monarchy
+primary_culture = bengali
+religion = mahayana
+technology_group = indian
+capital = 563	# Pandua
+
+change_estate_land_share = {
+	estate = estate_church
+	share = 12
+}
+change_brahmins_or_church_land_share_effect = {
+	share = -5
+}
+

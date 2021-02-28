@@ -1,0 +1,18 @@
+#Tibet & Vassals
+
+# Assam, a Tibetan vassal
+vassal = {
+	first = TIB
+	second = ASS
+	start_date = 1444.6.1
+	end_date = 1453.5.29
+}
+
+# Pala, a Tibetan vassal
+vassal = {
+	first = TIB
+	second = PLA
+	start_date = 1444.6.1
+	end_date = 1453.5.29
+}
+

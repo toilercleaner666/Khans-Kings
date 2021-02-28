@@ -1,0 +1,39 @@
+#Country Name: Please see filename.
+
+graphical_culture = indiangfx
+
+color = { 199  92  152 }
+
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	humanist_ideas
+	quantity_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	mughal_musketeer
+	rajput_musketeer
+	mughal_mansabdar
+	indian_elephant
+	sikh_hit_and_run
+	bhonsle_cavalry
+	indian_rifle
+	tipu_sultan_rocket
+}
+
+
+
+
+
+
+
+
